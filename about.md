@@ -7,7 +7,7 @@ sitemap: yes
 tags: [about]
 ---
 
-**[GS E&C](http://www.gsenc.com) HACKATHON BLOG 입니다.**
+<b>[GS E&C](http://www.gsenc.com) HACKATHON BLOG 입니다.</b>
 
 
 Powered by [GitHub Pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com).
