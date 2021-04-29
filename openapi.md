@@ -1,10 +1,10 @@
 ---
 layout: page
-title: kakao의 오픈API
+title: GS E&C - HACKATHON 공지
 image: /files/covers/openapi.png
 permalink: /openapi/
 sitemap: yes
-excerpt: kakao의 오픈API를 소개합니다.
+excerpt: GS E&C - HACKATHON 공지
 tags: [openapi]
 ---
 ## [Kakao Developers](https://developers.kakao.com)
