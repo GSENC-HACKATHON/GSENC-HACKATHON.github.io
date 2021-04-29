@@ -51,7 +51,7 @@ keep_files: [assets, files]
 github: [metadata]
 # Alpha's custom
 author: dhkim21@gsenc.com
-image: '/assets/images/default_blog_cover.jpg'
+image: '/assets/images/green_cover_2A.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
