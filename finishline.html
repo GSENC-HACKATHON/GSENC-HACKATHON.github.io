@@ -1,16 +1,17 @@
 ---
 layout: page
 title: GS E&C - HACKATHON
-image: /files/covers/opensource.jpg
-permalink: /opensource/
+image: /files/covers/not_only_me.jpg
+permalink: /finishline/
 sitemap: yes
 excerpt: GS E&C - HACKATHON 결과물을 소개합니다.
-tags: [opensource,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-editor]
+tags: [finishline,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-editor]
+description: 마라톤의 끝에서 만나는 "Finish Line". 이것은 다시금 시작하는 새로운 출발을 의미합니다.
 ---
 <a id="forkme" href="https://github.com/GSENC-HACKATHON"></a>
-<link rel="stylesheet" href="../assets/css/opensource.css">
+<link rel="stylesheet" href="../assets/css/finishline.css">
 <div class="row">
-	{% for item in site.data.opensource.defaults %}
+	{% for item in site.data.finishline.defaults %}
 	<div class="col-sm-6">
 		<div class="card">
 			<div class="card-body">
@@ -20,12 +21,12 @@ tags: [opensource,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-edito
 				<p class="post-tags">
 					{% for tag in item.tags %}
 					{% assign tag_url = '/tags/' | append: tag %}
-						{% for tm in site.data.opensource.tagmap %}
+						{% for tm in site.data.finishline.tagmap %}
 							{% if tag == tm.tag %}
 								{% assign tag_url = tm.url %}
 							{% endif %}
 					    {% endfor %}
-					<a href="{{ tag_url }}" target="_blank" title="opensource" class="tag tag-opensource" style="text-decoration: none">{{ tag }}</a>
+					<a href="{{ tag_url }}" target="_blank" title="finishline" class="tag tag-finishline" style="text-decoration: none">{{ tag }}</a>
 					{% endfor %}
 				</p><br/>
 				<a href="{{ item.github }}" target="_blank" class="btn btn-primary" style="color:#fff; text-decoration: none;">> GitHub</a>

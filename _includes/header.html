@@ -14,8 +14,8 @@
     <ul class="search__results" id="results-container"></ul>
 
     <ul id="menu" class="nav">
-        <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">POST</a></li>
-        <li class="{% if page.url == '/opensource/' %} active {% endif %}"><a href="{{ base_path }}/opensource/">"Finish Line"</a></li>
+        <li class="{% if page.url != '/finishline/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">POST</a></li>
+        <li class="{% if page.url == '/finishline/' %} active {% endif %}"><a href="{{ base_path }}/finishline/">"Finish Line"</a></li>
         <li class="{% if page.url == '/openapi/' %} active {% endif %}"><a href="{{ base_path }}/openapi/">영상</a></li>
         <li class="{% if page.url == '/events/' %} active {% endif %}"><a href="{{ base_path }}/events/">운영진</a></li>
     </ul>

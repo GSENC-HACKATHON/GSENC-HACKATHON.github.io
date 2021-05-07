@@ -1,10 +1,10 @@
 ---
 layout: page
-title: GS E&C - HACKATHON 공지
+title: GS E&C - HACKATHON
 image: /files/covers/openapi.png
 permalink: /openapi/
 sitemap: yes
-excerpt: GS E&C - HACKATHON 공지
+excerpt: GS E&C - HACKATHON
 tags: [openapi]
 ---
 ## [Kakao Developers](https://developers.kakao.com)
