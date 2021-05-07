@@ -1199,8 +1199,8 @@ body.page-template {
         top: 0;
         height: 50px;
         margin: 0 auto;
-        background-image: url(../images/mo/tech_logo.png);
-        background-size: 99px 17px;
+        background-image: url(../images/mo/GS_E&C@0.25x.png);
+        background-size: 67px 21px;
     }
 
     #menu {
@@ -1584,7 +1584,7 @@ body.page-template {
     }
 
     #logo {
-        background-image: url(../images/mo/tech_logo@2x.png);
+        background-image: url(../images/mo/GS_E&C@0.5x.png);
     }
 
     #menu-toggle {
@@ -1674,7 +1674,7 @@ body.page-template {
     }
 
     #logo {
-        background-image: url(../images/mo/tech_logo@3x.png);
+        background-image: url(../images/mo/GS_E&C@0.75x.png);
     }
 
     #menu-toggle {
