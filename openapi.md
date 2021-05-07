@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GS E&C - HACKATHON
+title: 　
 image: /files/covers/Live.png
 permalink: /Live/
 sitemap: yes
