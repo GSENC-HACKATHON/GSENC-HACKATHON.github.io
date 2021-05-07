@@ -1,8 +1,8 @@
 ---
 layout: page
 title: GS E&C - HACKATHON
-image: /files/covers/openapi.png
-permalink: /openapi/
+image: /files/covers/Live.png
+permalink: /Live/
 sitemap: yes
 excerpt: GS E&C - HACKATHON
 tags: [openapi]
