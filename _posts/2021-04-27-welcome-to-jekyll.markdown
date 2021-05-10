@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: 90년대생하고싶은거다해
 date:   2021-04-27 01:08:03 +0900
 categories: jekyll update
 ---
