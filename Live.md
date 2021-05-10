@@ -7,7 +7,12 @@ sitemap: yes
 excerpt: GS E&C - HACKATHON
 tags: [openapi]
 ---
-## [Kakao Developers](https://developers.kakao.com)
+
+## [GS E&C - HACKATHON] 1ST : HOVERING 홍보 영상
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LxyEWh9ly_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 * [플랫폼 API](https://developers.kakao.com/features/platform)
   - [사용자관리](https://developers.kakao.com/features/platform#사용자관리)
@@ -32,50 +37,7 @@ tags: [openapi]
 * ~~[카카오톡 링크](http://www.kakao.com/services/api/kakao_link)~~
 * ~~[스토리 링크](http://www.kakao.com/services/api/story_link)~~
 
-## [Daum Developers](https://developers.daum.net)
 
-* [콘솔](https://developers.daum.net/console)
-* [API](http://developers.daum.net/services)
- - [검색](http://developers.daum.net/services/apis/search)
- - [뉴톤](http://developers.daum.net/services/apis/newtone)
- - [로그인](http://developers.daum.net/services/apis/login)
- - [로컬](http://developers.daum.net/services/apis/local)
- - [블로그](http://developers.daum.net/services/apis/blog)
- - [쇼핑](http://developers.daum.net/services/apis/shopping)
- - [지도](http://apis.map.daum.net)
- - [카페](http://developers.daum.net/services/apis/cafe)
- - [캘린더](http://developers.daum.net/services/apis/calendar)
- - [콘텐츠](http://developers.daum.net/services/apis/contents)
- - [프로필](http://developers.daum.net/services/apis/user)
-* [개발자 카페](http://cafe.daum.net/daumdna)
-
-## [카카오 게임 센터](https://gamecenter.kakao.com/)
-
-* [비즈 계정 센터](https://biz.kakao.com)
-
-## [플러스친구](https://center-pf.kakao.com/)
-
-* [API 문서](https://github.com/plusfriend/auto_reply)
-
-### [티스토리](https://tistory.github.io/document-tistory-apis/)
-
-* [OAuth 인증 가이드](https://tistory.github.io/document-tistory-apis/auth/)
-* [API 가이드](https://tistory.github.io/document-tistory-apis/apis/)
-  - [블로그 정보](https://tistory.github.io/document-tistory-apis/apis/v1/blog/list)
-  - 글
-    - [글 목록](https://tistory.github.io/document-tistory-apis/apis/v1/post/list)
-    - [글 읽기](https://tistory.github.io/document-tistory-apis/apis/v1/post/read)
-    - [글 작성](https://tistory.github.io/document-tistory-apis/apis/v1/post/write)
-    - [글 수정](https://tistory.github.io/document-tistory-apis/apis/v1/post/modify)
-    - [파일 첨부](https://tistory.github.io/document-tistory-apis/apis/v1/post/attach)
-  - [카테고리](https://tistory.github.io/document-tistory-apis/apis/v1/category/list)
-  - 댓글
-    - [최근 댓글 목록](https://tistory.github.io/document-tistory-apis/apis/v1/comment/recent)
-    - [댓글 목록](https://tistory.github.io/document-tistory-apis/apis/v1/comment/list)
-    - [댓글 작성](https://tistory.github.io/document-tistory-apis/apis/v1/comment/write)
-    - [댓글 수정](https://tistory.github.io/document-tistory-apis/apis/v1/comment/modify)
-    - [댓글 삭제](https://tistory.github.io/document-tistory-apis/apis/v1/comment/delete)
-
-<!--
-* 커버 이미지 출처: [API Testing and some amazing testing tools](http://go-gaga-over-testing.blogspot.kr/2013/11/api-testing-and-some-amazing-testing.html)
--->
+<p align="center">
+  <img src="\files\Live\signed_attendee_wallboard.jpg" width="750" title="hover text">
+</p>
