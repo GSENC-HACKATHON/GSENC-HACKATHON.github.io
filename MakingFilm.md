@@ -2,7 +2,7 @@
 layout: page
 title: GS E&C - HACKATHON　
 title_1: 메이킹 필름　
-image: /files/covers/Live.png
+image: /files/covers/imagine.png
 permalink: /Film/
 sitemap: yes
 tags: [MakingFilm]
