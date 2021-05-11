@@ -897,7 +897,6 @@ body.tag-template #navbar {
   right: 0;
   width: 100%;
   height: 100%;
-  border: none;
 }
 
 #post-content h1 {
@@ -1193,10 +1192,10 @@ body.page-template {
     position: absolute;
     top: 0;
     right: 0;
-    width: 149px;
-    height: 149px;
+    width: 150px;
+    height: 141px;
     z-index: 998;
-    background: url(../images/forkme_kakao_tr.png) no-repeat;
+    background: url(../images/B_Logo3_Black.png) no-repeat;
     margin-right: -45px;
 }
 

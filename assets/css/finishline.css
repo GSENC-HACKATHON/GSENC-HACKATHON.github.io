@@ -44,6 +44,10 @@
   padding: 1.25rem;
 }
 
+.post-tags {
+  font-size: 6px;
+}
+
 .btn {
   display: inline-block;
   font-weight: 400;
