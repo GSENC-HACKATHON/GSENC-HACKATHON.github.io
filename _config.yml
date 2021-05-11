@@ -10,7 +10,7 @@ timezone: Asia/Seoul
 
 repository: GSENC-HACKATHON/GSENC-HACKATHON.github.io
 
-permalink: /:year/:month/:day/:title/
+permalink: /posts/:title/
 
 excerpt_separator: <!--more-->
 
@@ -23,7 +23,7 @@ krandown:
 plugins:
   - jekyll-paginate
 
-paginate: 5
+paginate: 9
 paginate_path: '/page/:num/'
 
 collections:
@@ -63,7 +63,7 @@ facebook:
   username: '-'
 twitter:
   username: '-'
-google_plus:
+instagram:
   username: '-'
 github_url:
   username: '-'

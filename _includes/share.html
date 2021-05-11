@@ -1,34 +1,30 @@
 {% assign abs_page_url = site.url | append: site.baseurl | append: page.url %}
 <ul id="shares">
-    <li class="stalk" style="display:none">
-        <a id="kakao-link-btn" href="javascript:;"></a>
+    <li>
+        <a id="share-workplace" href="https://work.facebook.com/sharer.php?display=page&u={{ abs_page_url }}"
+  		   onclick="window.open(this.href, 'workplace-share', 'width=626,height=436');return false;"></a>
+            <span class="sr-only">Share to Workplace</span>
     </li>
     <li>
         <a id="share-kakaostory" href="javascript:shareStory('{{ abs_page_url }}');"></a>
     </li>
-
-    {% if site.facebook %}
     <li>
         <a id="share-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ abs_page_url }}"
            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
             <span class="sr-only">Share to Facebook</span>
         </a>
     </li>
-    {% endif %}
-    {% if site.twitter %}
     <li>
         <a id="share-twitter"
-           href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ abs_page_url }}">
+           href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ abs_page_url }}"
+		   onclick="window.open(this.href, 'Twitter-share','width=580,height=296');return false;">
             <span class="sr-only">Share to Twitter</span>
         </a>
     </li>
-    {% endif %}
-    {% if site.google_plus %}
     <li>
-        <a id="share-google" href="https://plus.google.com/share?url={{ abs_page_url }}"
-           onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-            <span class="sr-only">Share to Google+</span>
+        <a id="share-instagram" href="https://www.instagram.com/?url={{ abs_page_url }}"
+           onclick="window.open(this.href, 'instagram-share', 'width=473,height=834');return false;">
+            <span class="sr-only">Share to Instagram</span>
         </a>
     </li>
-    {% endif %}
 </ul>
