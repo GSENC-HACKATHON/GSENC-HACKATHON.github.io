@@ -24,6 +24,13 @@ defaults:
     blog_url: 
     content: 우리 아이를 키우고 싶은 동네는 어디일까요?
     tags:
+    
+  - name: A.BIGS
+    powerbi: https://app.powerbi.com/view?r=eyJrIjoiOTQxYTBlZWYtZGEyNS00ZmNlLWE3MTMtNzdlNjQxNGEyZjMwIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    title: 미세먼지 확산에 따른 호흡기환자/취약계층의 상관관계 분석, 시각화를 통한 지원 대상 및 방안 검토
+    blog_url: 
+    content: 마스크를 쓴 인간이라는 Homo Maskus라는 신조어가 생길 만큼 코로나, 미세먼지, 황사 등으로 인해 마스크와 같이 생활하고 있습니다.
+    tags:
 
 tagmap:
   - tag: 초등돌봄교실
