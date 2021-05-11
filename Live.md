@@ -8,7 +8,7 @@ sitemap: yes
 tags: [Live]
 ---
 
-# [GS E&C - HACKATHON] 1ST : HOVERING 경연 영상 (발표회)
+# [GS E&C - HACKATHON] 1ST : HOVERING 경연 영상
 
 - to be Updated
 

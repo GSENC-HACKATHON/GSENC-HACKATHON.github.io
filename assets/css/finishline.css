@@ -7,15 +7,6 @@
   margin-left: -15px;
 }
 
-.col-sm-6 {
-  -ms-flex: 0 0 50%;
-  flex: 0 0 50%;
-  max-width: 50%;
-  position: relative;
-  width: 100%;
-  padding: 15px;
-}
-
 .card {
   position: relative;
   display: -ms-flexbox;
@@ -28,7 +19,7 @@
   background-clip: border-box;
   border: 1px solid rgba(0,0,0,.125);
   border-radius: .25rem;
-  height: 360px;
+  height: 430px;
 }
 
 .card:hover{ /* when mouse hover over pricing table */
@@ -77,3 +68,47 @@
   color: #6c757d!important;
   margin-top: 0;
 }
+
+@media only screen and (min-width: 720px) {
+	.col-sm-6 {
+	  -ms-flex: 0 0 50%;
+	  flex: 0 0 50%;
+	  max-width: 50%;
+	  position: relative;
+	  width: 100%;
+	  padding: 15px;
+	}
+}
+
+@media only screen and (max-width: 720px) {
+	.col-sm-6 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+	position: relative;
+	width: 100%;
+	padding: 15px;
+	}
+}
+
+@media (-webkit-min-device-pixel-ratio: 2) {
+	.col-sm-6 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+	position: relative;
+	width: 100%;
+	padding: 15px;
+	}
+}
+
+@media (-webkit-min-device-pixel-ratio: 3) {
+	.col-sm-6 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+	position: relative;
+	width: 100%;
+	padding: 15px;
+	}
+}	

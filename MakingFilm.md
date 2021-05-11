@@ -1,11 +1,11 @@
 ---
 layout: page
 title: GS E&C - HACKATHON　
-title_1: 　
+title_1: 메이킹 필름　
 image: /files/covers/Live.png
-permalink: /Live/
+permalink: /Film/
 sitemap: yes
-tags: [Live]
+tags: [MakingFilm]
 ---
 
 # [GS E&C - HACKATHON] 1ST : HOVERING 홍보 영상
