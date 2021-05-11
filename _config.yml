@@ -4,7 +4,7 @@ email: dhkim21@gsenc.com
 description: |
   Open Innovation과 Design Thinking을 시작으로
   편견과 관념을 넘어 도전과 변화로 스스로의 성장을 이뤄갑니다.
-baseurl: 'https://gsenc-hackathon.github.io/'
+baseurl:
 url: 'https://gsenc-hackathon.github.io'
 timezone: Asia/Seoul 
 
