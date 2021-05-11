@@ -32,6 +32,20 @@ defaults:
     content: 마스크를 쓴 인간이라는 Homo Maskus라는 신조어가 생길 만큼 코로나, 미세먼지, 황사 등으로 인해 마스크와 같이 생활하고 있습니다.
     tags:
 
+  - name: 변화의 실마리
+    powerbi: https://app.powerbi.com/view?r=eyJrIjoiYjZhZjBhOWEtMjI4Zi00NTQwLTkwN2MtNjZlNTk5ZTUwYzUzIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    title: 정치인들의 공약, 空約 No!!!  公約 Yes!!!
+    blog_url: 
+    content: 우리 지역 정치인의 공약이 무엇이었는지, 잘 지켜지고 있는지 한눈에 볼 수 있었으면 하는 Needs에 선거공약 모니터링 Map을 만들게 되었습니다.
+    tags:
+
+  - name: 서로고마운조
+    powerbi: https://app.powerbi.com/view?r=eyJrIjoiNzc0NDgxMTMtMDhkMC00YTA5LWJmYmUtNjY2YjIyMDNlNzNlIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection01244d46753c807a27e3
+    title: 경기침체 및 코로나19상황으로 인한 전통시장기반의 지역경제 활성화방안
+    blog_url: 
+    content: 데이터를 근거로 전통시장 활성화를 위한 실질적인 방안과 특히 지자체와 대기업과의 상생 방안을 찾아보고자 하였습니다.
+    tags:
+
 tagmap:
   - tag: 초등돌봄교실
     url: https://www.afterschool.go.kr/careservice/infoMap.do
