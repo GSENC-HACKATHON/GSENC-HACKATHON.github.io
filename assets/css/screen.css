@@ -1599,11 +1599,18 @@ body.page-template {
 
     body.author-template #cover h1,
     body.author-template #cover p {
-        max-width: 193px; /* 386/2 */
+        max-width: 280px; /* 386/2 */
         width: 100%; /* @@iolo */
         margin-left: 102px; /* 254px = 15(padding-left) + 72(#cover-author-image width) + 15(spacing) */
         text-align: left;
     }
+	
+	body.author-template #cover-author-discription p {
+    position: relative;
+    max-width: 640px;
+    height: 70px;
+	white-space: normal;
+	}
 
     #cover-author-image {
         position: absolute;
