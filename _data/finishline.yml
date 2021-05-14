@@ -66,6 +66,8 @@ defaults:
     blog_url:
     content: 현실적인 주거지 선정요소와 결합하여 최선의 주거지 선정을 결정하는데에 기초자료로 활용할 수 있도록 해보았습니다.
     tags:
+     - e-지방지표
+     - 지역별인구밀도
 
   - name: ESGEL
     powerbi: https://app.powerbi.com/view?r=eyJrIjoiOWUzMmVhYTctMDM2NS00ODk3LTgxNjEtYmQ0OTlmMWI2OTljIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
@@ -99,4 +101,31 @@ tagmap:
     url: https://seoulsolution.kr/ko/content/7658
   - tag: 중위소득정보2
     url: https://gplib.kr/poc/www/view.do?key=1903277608341&docKey=1906192408918
-  
+  - tag: e-지방지표
+    url: https://kosis.kr/statisticsList/statisticsListIndex.do?vwcd=MT_GTITLE01&menuId=M_01_03_01
+  - tag: 지역별인구밀도
+    url: http://index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1007
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
+  - tag:
+    url: 
