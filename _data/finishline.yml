@@ -1,6 +1,6 @@
 defaults:
   - name: 90년대생하고싶은거다해
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiMWE0ZDRkN2EtY2YzNC00OTllLTk4ZDAtMDM5YmQ0YTI0MzRlIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiMWE0ZDRkN2EtY2YzNC00OTllLTk4ZDAtMDM5YmQ0YTI0MzRlIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection
     title: 지역별(수도권) / 나이별 / 상황 맞춤별 공공 돌봄 필터링 서비스 + 지역종합정보
     blog_url:
     content: G-아이 케어
@@ -19,14 +19,14 @@ defaults:
      - 중위소득정보2
 
   - name: TeamArtech
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiODYyOWMxOWEtZDNkYi00ZTg3LTlhOWYtZGYyYjdkMjFhM2EyIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection5bde12851510639bcb60
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiODYyOWMxOWEtZDNkYi00ZTg3LTlhOWYtZGYyYjdkMjFhM2EyIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection5bde12851510639bcb60
     title: 서울시 공공데이터를 활용한 자치구별 통합 보육정보서비스
     blog_url: 
     content: 우리 아이를 키우고 싶은 동네는 어디일까요?
     tags:
     
   - name: A.BIGS
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiOTQxYTBlZWYtZGEyNS00ZmNlLWE3MTMtNzdlNjQxNGEyZjMwIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiOTQxYTBlZWYtZGEyNS00ZmNlLWE3MTMtNzdlNjQxNGEyZjMwIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
     title: 미세먼지 확산에 따른 호흡기환자/취약계층의 상관관계 분석, 시각화를 통한 지원 대상 및 방안 검토
     blog_url: 
     content: 마스크를 쓴 인간이라는 Homo Maskus라는 신조어가 생길 만큼 코로나, 미세먼지, 황사 등으로 인해 마스크와 같이 생활하고 있습니다.
@@ -41,14 +41,14 @@ defaults:
      - 상위질환의료보험급여
 
   - name: 변화의 실마리
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiYjZhZjBhOWEtMjI4Zi00NTQwLTkwN2MtNjZlNTk5ZTUwYzUzIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiYjZhZjBhOWEtMjI4Zi00NTQwLTkwN2MtNjZlNTk5ZTUwYzUzIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
     title: 정치인들의 공약, 空約 No!!!  公約 Yes!!!
     blog_url: 
     content: 우리 지역 정치인의 공약이 무엇이었는지, 잘 지켜지고 있는지 한눈에 볼 수 있었으면 하는 Needs에 선거공약 모니터링 Map을 만들게 되었습니다.
     tags:
 
   - name: 서로고마운조
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiNzc0NDgxMTMtMDhkMC00YTA5LWJmYmUtNjY2YjIyMDNlNzNlIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection01244d46753c807a27e3
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiNzc0NDgxMTMtMDhkMC00YTA5LWJmYmUtNjY2YjIyMDNlNzNlIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection01244d46753c807a27e3
     title: 경기침체 및 코로나19상황으로 인한 전통시장기반의 지역경제 활성화방안
     blog_url: https://arcg.is/15Gf55
     content: 데이터를 근거로 전통시장 활성화를 위한 실질적인 방안과 특히 지자체와 대기업과의 상생 방안을 찾아보고자 하였습니다.
@@ -65,21 +65,25 @@ defaults:
      - 건물(3D)    
 
   - name: 로하스
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiNDllOGUxNjAtZjY3ZC00MzRkLThhOTItZDhjZjhlNDUwZmU5IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiNDllOGUxNjAtZjY3ZC00MzRkLThhOTItZDhjZjhlNDUwZmU5IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
     title: 공공 데이터를 활용한 우리 동네 병원 찾기, “메디플레이스”
     blog_url:
-    content: 정보 비대칭을 해소하고 지자체의 정책 담당자가 지역별 의료 양극화 문제를 개선하기 위한 기초 자료로 활용될 것이라 기대합니다.
+    content: 메디플레이스는 공공 데이터를 기반으로 선택한 지역과 진료과목에 적합한 병원의 상세 정보를 알려줍니다.
     tags:
+     - 전국병의원및약국현황
+     - 행정구역별주민등록인구
+     - 요양기관개설현황
+     - 병원평가
 
   - name: GS꼰띠고
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiOWFiMjFhOWYtOWQzMC00M2E4LWI1MjgtODQ0YzgwOTE5ZGVmIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiOWFiMjFhOWYtOWQzMC00M2E4LWI1MjgtODQ0YzgwOTE5ZGVmIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
     title: 우리아이 - 우리동네 결식아동 현황공유 및 지원 Platform
     blog_url:
     content: 기부에 대한 사회적 공감대를 형성하고 장려하기 위해 결식아동과 기부 Platform을 연결하여 생각해 보았습니다.
     tags:
     
   - name: 환경과 해커톤
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiYmNhMDE0ODAtOWU0ZC00MzNjLWIxNTQtMGRjY2ZiZDI5YTUwIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiYmNhMDE0ODAtOWU0ZC00MzNjLWIxNTQtMGRjY2ZiZDI5YTUwIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
     title: 삶의 만족도와 관계된 지표 선택을 통해 개인선호도가 반영된 가장 적합한 도시 추천
     blog_url:
     content: 현실적인 주거지 선정요소와 결합하여 최선의 주거지 선정을 결정하는데에 기초자료로 활용할 수 있도록 해보았습니다.
@@ -88,15 +92,15 @@ defaults:
      - 지역별인구밀도
 
   - name: ESGEL
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiOWUzMmVhYTctMDM2NS00ODk3LTgxNjEtYmQ0OTlmMWI2OTljIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiOWUzMmVhYTctMDM2NS00ODk3LTgxNjEtYmQ0OTlmMWI2OTljIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
     title: 푸드뱅크, 전국무료급식소 통합정보
     blog_url:
     content: 사회 취약계층과 食을 나누는 기쁨을 확대하기 위해 기부자와 제공자의 정보(기부품, 금액, 선호품 등)을 지도에 표현하고자 합니다.
     tags:
     
   - name: 52GSG 시검단
-    powerbi: https://app.powerbi.com/view?r=eyJrIjoiOWUzMmVhYTctMDM2NS00ODk3LTgxNjEtYmQ0OTlmMWI2OTljIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
-    title: 푸드뱅크, 전국무료급식소 통합정보
+    finishline: 
+    title: 
     blog_url: https://gsgtyag.itgsshop.com
     content: 사회 취약계층과 食을 나누는 기쁨을 확대하기 위해 기부자와 제공자의 정보(기부품, 금액, 선호품 등)을 지도에 표현하고자 합니다.
     tags:
@@ -170,14 +174,15 @@ tagmap:
   - tag: 건물(3D)
     url: https://www.juso.go.kr/addrlink/devLayerRequestWrite.do
 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
+  - tag: 전국병의원및약국현황
+    url: https://www.data.go.kr/data/15051059/fileData.do
+  - tag: 행정구역별주민등록인구
+    url: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B04005N
+  - tag: 요양기관개설현황
+    url: https://data.go.kr/data/15051057/fileData.do
+  - tag: 병원평가
+    url: https://www.data.go.kr/data/15052115/fileData.do
+
   - tag: 
     url: 
   - tag: 
