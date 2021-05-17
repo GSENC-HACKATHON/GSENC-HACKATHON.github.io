@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Kakao', sans-serif;
+    font-family: 'Spoqa Han Sans', sans-serif;
     font-weight: 400;
     color: #1e1e1e;
 }
@@ -584,7 +584,7 @@ for small screen(<720px):
 #cover,
 #navbar,
 #footer {
-    font-family: 'Kakao', sans-serif !important;
+    font-family: 'Spoqa Han Sans', sans-serif !important;
 }
 
 /* list(loop) */
