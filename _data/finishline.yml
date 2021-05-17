@@ -93,6 +93,13 @@ defaults:
     blog_url:
     content: 사회 취약계층과 食을 나누는 기쁨을 확대하기 위해 기부자와 제공자의 정보(기부품, 금액, 선호품 등)을 지도에 표현하고자 합니다.
     tags:
+    
+  - name: 52GSG 시검단
+    powerbi: https://app.powerbi.com/view?r=eyJrIjoiOWUzMmVhYTctMDM2NS00ODk3LTgxNjEtYmQ0OTlmMWI2OTljIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    title: 푸드뱅크, 전국무료급식소 통합정보
+    blog_url: https://gsgtyag.itgsshop.com
+    content: 사회 취약계층과 食을 나누는 기쁨을 확대하기 위해 기부자와 제공자의 정보(기부품, 금액, 선호품 등)을 지도에 표현하고자 합니다.
+    tags:
 
 tagmap:
   - tag: 초등돌봄교실
