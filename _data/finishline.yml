@@ -31,6 +31,14 @@ defaults:
     blog_url: 
     content: 마스크를 쓴 인간이라는 Homo Maskus라는 신조어가 생길 만큼 코로나, 미세먼지, 황사 등으로 인해 마스크와 같이 생활하고 있습니다.
     tags:
+     - 연도별미세먼지
+     - 서울시코로나
+     - 국민희망복지
+     - 미세먼지경보
+     - 상위질병환자수
+     - 서울시기초생활
+     - 소득10분위가구당가계수지
+     - 상위질환의료보험급여
 
   - name: 변화의 실마리
     powerbi: https://app.powerbi.com/view?r=eyJrIjoiYjZhZjBhOWEtMjI4Zi00NTQwLTkwN2MtNjZlNTk5ZTUwYzUzIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
@@ -45,6 +53,16 @@ defaults:
     blog_url: https://arcg.is/15Gf55
     content: 데이터를 근거로 전통시장 활성화를 위한 실질적인 방안과 특히 지자체와 대기업과의 상생 방안을 찾아보고자 하였습니다.
     tags:
+     - 전통시장현황 
+     - 인구수
+     - 세대수
+     - 유동인구
+     - 전통시장매출
+     - 지하철역
+     - 주차장
+     - 실폭도로
+     - 버스정류장
+     - 건물(3D)    
 
   - name: 로하스
     powerbi: https://app.powerbi.com/view?r=eyJrIjoiNDllOGUxNjAtZjY3ZC00MzRkLThhOTItZDhjZjhlNDUwZmU5IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
@@ -101,31 +119,95 @@ tagmap:
     url: https://seoulsolution.kr/ko/content/7658
   - tag: 중위소득정보2
     url: https://gplib.kr/poc/www/view.do?key=1903277608341&docKey=1906192408918
+
   - tag: e-지방지표
     url: https://kosis.kr/statisticsList/statisticsListIndex.do?vwcd=MT_GTITLE01&menuId=M_01_03_01
   - tag: 지역별인구밀도
     url: http://index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1007
-  - tag:
+
+  - tag: 연도별미세먼지
+    url: https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123
+  - tag: 서울시코로나
+    url: http://data.seoul.go.kr/dataList/OA-20279/S/1/datasetView.do;jsessionid=B507BDC5F2F8C561F300966959A3A580.new_portal-svr-11
+  - tag: 국민희망복지
+    url: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSWE042R&conn_path=I2
+  - tag: 미세먼지경보
+    url: https://www.airkorea.or.kr/web/pmWarning?pMENU_NO=115
+  - tag: 상위질병환자수
+    url: https://kosis.kr/statHtml/statHtml.do?orgId=350&tblId=DT_35003_FD04&conn_path=I2
+  - tag: 서울시기초생활
+    url: https://data.seoul.go.kr/dataList/1/S/2/datasetView.do
+  - tag: 소득10분위가구당가계수지
+    url: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1L9H008
+  - tag: 상위질환의료보험급여
+    url: https://kosis.kr/statHtml/statHtml.do?orgId=350&tblId=TX_35001_A060&conn_path=I2
+
+  - tag: 전통시장현황 
+    url: http://data.seoul.go.kr/dataList/OA-1176/S/1/datasetView.do
+  - tag: 인구수
+    url: http://data.seoul.go.kr/dataList/10043/S/2/datasetView.do
+  - tag: 세대수
+    url: http://data.seoul.go.kr/dataList/10597/S/2/datasetView.do
+  - tag: 유동인구
+    url: http://data.seoul.go.kr/dataList/OA-15568/S/1/datasetView.do
+  - tag: 전통시장매출
+    url: http://data.seoul.go.kr/dataList/OA-15572/S/1/datasetView.do
+  - tag: 지하철역
+    url: http://data.seoul.go.kr/dataList/OA-12035/S/1/datasetView.do
+  - tag: 주차장
+    url: https://www.data.go.kr/tcs/dss/selectStdDataDetailView.do
+  - tag: 실폭도로
+    url: https://www.juso.go.kr/addrlink/devLayerRequestWrite.do
+  - tag: 버스정류장
+    url: http://data.seoul.go.kr/dataList/OA-15067/S/1/datasetView.do
+  - tag: 건물(3D)
+    url: https://www.juso.go.kr/addrlink/devLayerRequestWrite.do
+
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
     url: 
-  - tag:
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
+    url: 
+  - tag: 
     url: 

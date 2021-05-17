@@ -35,6 +35,11 @@
   padding: 1.25rem;
 }
 
+.card-text {
+  font-size: 15px;
+  line-height: 1.2
+}
+
 .post-tags {
   font-size: 6px;
 }

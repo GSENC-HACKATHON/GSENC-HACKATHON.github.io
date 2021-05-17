@@ -7,7 +7,10 @@
     </li>
 	
     <li>
-        <a id="share-kakaostory" href="javascript:shareStory('{{ abs_page_url }}');"></a>
+        <a id="share-kakaostory" href="https://story.kakao.com/s/share?url={{ abs_page_url }}"
+  		   onclick="window.open(this.href, 'workplace-share', 'width=400,height=800');return false;"></a>
+            <span class="sr-only">Share to kakaostory</span>
+		</a>
     </li>
 	
     <li>
