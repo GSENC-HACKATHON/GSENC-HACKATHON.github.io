@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
     font-weight: 300; /* @@iolo 200 -> 300, 200 for retina only! */
     color: #505050;
     background-color: #fff;
@@ -42,7 +42,7 @@ code.highlighter-rouge {
 }
 
 b, strong, optgroup {
-    font-weight: 600;
+    font-weight: 450;
 }
 
 a, a:link, a:visited, a:active, a:hover {
@@ -965,10 +965,9 @@ body.tag-template #navbar {
 }
 
 #post-content pre {
-    margin: 28px 0;
+    margin: 28px 30px ;
     /*background: #f4f4f4;*/
     border: 1px solid #d4d4d4;
-    width: 100%;
     padding: 10px;
     font-size: 0.9em;
     white-space: pre;

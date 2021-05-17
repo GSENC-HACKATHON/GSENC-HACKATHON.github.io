@@ -76,11 +76,16 @@ defaults:
      - 병원평가
 
   - name: GS꼰띠고
-    finishline: https://app.powerbi.com/view?r=eyJrIjoiOWFiMjFhOWYtOWQzMC00M2E4LWI1MjgtODQ0YzgwOTE5ZGVmIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiOWFiMjFhOWYtOWQzMC00M2E4LWI1MjgtODQ0YzgwOTE5ZGVmIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSectiondde165bde0930c557618
     title: 우리아이 - 우리동네 결식아동 현황공유 및 지원 Platform
     blog_url:
     content: 기부에 대한 사회적 공감대를 형성하고 장려하기 위해 결식아동과 기부 Platform을 연결하여 생각해 보았습니다.
     tags:
+     - 전국편의점위치정보
+     - 전국시구인구분포
+     - 기능별단체별세출결산
+     - 전국아동급식대상자현황
+     - 복지로
     
   - name: 환경과 해커톤
     finishline: https://app.powerbi.com/view?r=eyJrIjoiYmNhMDE0ODAtOWU0ZC00MzNjLWIxNTQtMGRjY2ZiZDI5YTUwIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
@@ -183,16 +188,17 @@ tagmap:
   - tag: 병원평가
     url: https://www.data.go.kr/data/15052115/fileData.do
 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
+  - tag: 전국편의점위치정보
+    url: http://data.nsdi.go.kr/dataset/14781
+  - tag: 전국시구인구분포
+    url: https://jumin.mois.go.kr/ageStatMonth.do#none
+  - tag: 기능별단체별세출결산
+    url: https://lofin.mois.go.kr/portal/bbs/bbsLink.do?ditc_cd=4
+  - tag: 전국아동급식대상자현황
+    url: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=2707
+  - tag: 복지로
+    url: https://www.bokjiro.go.kr/nwel/welfareinfo/sociguastat/retrieveSociGuaStatList.do
+
   - tag: 
     url: 
   - tag: 
