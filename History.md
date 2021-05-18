@@ -1,12 +1,12 @@
 ---
 layout: page
 title: GS E&C - HACKATHON　
-title_1: 운영진
-image: /files/covers/Operation.jpg
-permalink: /Operator/
+title_1: History
+image: /files/covers/History.jpg
+permalink: /History/
 sitemap: yes
-excerpt: HACKATHON 주최하거나 직접적으로 운영에 참여한 인원들을 소개합니다.
-tags: [Operator]
+excerpt: HACKATHON의 소중한 History를 소개합니다.
+tags: [History]
 ---
 
 -------------------------------------------------------------
