@@ -65,7 +65,7 @@ defaults:
      - 건물(3D)    
 
   - name: 로하스
-    finishline: https://app.powerbi.com/view?r=eyJrIjoiNDllOGUxNjAtZjY3ZC00MzRkLThhOTItZDhjZjhlNDUwZmU5IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiMDBjODIzYWItMjhmMi00MmU0LWI2MzYtZjlkNjMyMDM3OWJmIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection8d5d17b0270ab538e049
     title: 공공 데이터를 활용한 우리 동네 병원 찾기, “메디플레이스”
     blog_url:
     content: 메디플레이스는 공공 데이터를 기반으로 선택한 지역과 진료과목에 적합한 병원의 상세 정보를 알려줍니다.
