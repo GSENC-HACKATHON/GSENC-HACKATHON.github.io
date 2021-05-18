@@ -24,6 +24,13 @@ defaults:
     blog_url: 
     content: 우리 아이를 키우고 싶은 동네는 어디일까요?
     tags:
+     - 서울시보육정책
+     - 5대범죄발생율
+     - 서울시공원
+     - CCTV수량 및 위치
+     - 서울시교육기관 정원수 및 위치
+     - 연령별인구(0-14세)
+     - 서울시미세먼지경보
     
   - name: A.BIGS
     finishline: https://app.powerbi.com/view?r=eyJrIjoiOTQxYTBlZWYtZGEyNS00ZmNlLWE3MTMtNzdlNjQxNGEyZjMwIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
@@ -82,10 +89,10 @@ defaults:
     content: 기부에 대한 사회적 공감대를 형성하고 장려하기 위해 결식아동과 기부 Platform을 연결하여 생각해 보았습니다.
     tags:
      - 전국편의점위치정보
+     - 복지로
      - 전국시구인구분포
      - 기능별단체별세출결산
      - 전국아동급식대상자현황
-     - 복지로
     
   - name: 환경과 해커톤
     finishline: https://app.powerbi.com/view?r=eyJrIjoiYmNhMDE0ODAtOWU0ZC00MzNjLWIxNTQtMGRjY2ZiZDI5YTUwIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
@@ -102,6 +109,7 @@ defaults:
     blog_url:
     content: 사회 취약계층과 食을 나누는 기쁨을 확대하기 위해 기부자와 제공자의 정보(기부품, 금액, 선호품 등)을 지도에 표현하고자 합니다.
     tags:
+     - 한국사회복지협의회 전국푸드뱅크 정보
     
   - name: 52GSG 시검단
     finishline: 
@@ -190,31 +198,34 @@ tagmap:
 
   - tag: 전국편의점위치정보
     url: http://data.nsdi.go.kr/dataset/14781
+  - tag: 복지로
+    url: https://www.bokjiro.go.kr/nwel/welfareinfo/sociguastat/retrieveSociGuaStatList.do
   - tag: 전국시구인구분포
     url: https://jumin.mois.go.kr/ageStatMonth.do#none
   - tag: 기능별단체별세출결산
     url: https://lofin.mois.go.kr/portal/bbs/bbsLink.do?ditc_cd=4
   - tag: 전국아동급식대상자현황
     url: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=2707
-  - tag: 복지로
-    url: https://www.bokjiro.go.kr/nwel/welfareinfo/sociguastat/retrieveSociGuaStatList.do
 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
+  - tag: 한국사회복지협의회 전국푸드뱅크 정보
+    url: http://apis.data.go.kr/B460014/foodBankInfoService2
+
+  - tag: 서울시보육정책
+    url: https://icare.seoul.go.kr/icare/user/bbs/BD_selectBbsList.do?q_bbsCode=1013
+  - tag: 5대범죄발생율
+    url: https://www.police.go.kr/www/open/publice/publice03_2018.jsp
+  - tag: 서울시공원통계
+    url: https://data.seoul.go.kr/dataList/360/S/2/datasetView.do
+  - tag: CCTV수량 및 위치
+    url: https://www.data.go.kr/data/15013094/standard.do
+  - tag: 서울시교육기관 정원수 및 위치
+    url: https://data.seoul.go.kr/dataList/200/A/2/datasetView.do;jsessionid=DFAAF7D17F6DCEFCE774B8088D112FA1.new_portal-svr-11
+  - tag: 연령별인구(0-14세)
+    url: https://kosis.kr/search/search.do;jsessionid=0BHvb7ZGsgGmyNeFTs9lwh3orYIiAwLdbrmBdKg6fUtT16MkJo03FsdT8OjlLByV.STAT_SIGA2_servlet_engine1
+  - tag: 서울시미세먼지경보
+    url: http://data.seoul.go.kr/dataList/OA-2228/S/1/datasetView.do
+
+
   - tag: 
     url: 
   - tag: 
