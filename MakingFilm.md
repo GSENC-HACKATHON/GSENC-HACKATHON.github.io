@@ -9,8 +9,6 @@ tags: [MakingFilm]
 ---
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
-<img src="/assets/images/Logo_B.jpg" style="width:120px;" class="pull-right">
-<img src="/assets/images/Logo_B.jpg" style="width:120px;" class="pull-left">
 # <center> [1ST : HOVERING] <br> * 2021.04 * </center>
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
