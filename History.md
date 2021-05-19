@@ -14,7 +14,7 @@ tags: [History]
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
-<img src="/assets/images/HOVERING_LOGO_Small.jpg" style="width:100px; margin: 27px 18px 40px 0; 		border-radius:50%; border: 1px solid #ccc;" class="pull-left">
+<img src="/assets/images/HOVERING_LOGO_Small.jpg" style="width:100px; margin: 27px 18px 40px 0; border-radius:50%; border: 1px solid #ccc;" class="pull-left">
 
 # 제목 : HOVERING
 
@@ -30,6 +30,7 @@ tags: [History]
 > 장소 : 남촌리더쉽센터   
 > 발표회(경연) : 2021.04.21 (오후4시)   
 > 주요 방법 (Tool) : Power BI   
+> Publish : 2021.05.24 (예정)
 > **최종 목표 : Hackathon을 통한 결과물을 Web Publish (Open Source 개념)**
 
 > 비고1 : (교육) 거리두기 적용, (경연) 비대면 환경 적용   
