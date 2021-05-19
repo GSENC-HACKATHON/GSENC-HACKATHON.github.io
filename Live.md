@@ -51,7 +51,7 @@ tags: [Live]
 > 주제 : 서울시 공공데이터를 활용한 자치구별 통합 보육정보서비스   
 > 팀원 : 장석봉, 김용빈, 권희진, 정혜리
 
-	 > 소속 : 소속 : 건축·주택ARTECH그룹 4명
+	 > 소속 : 건축·주택ARTECH그룹 4명
 	 > 발표자 : 권희진
 	 
 <div class="video-container" align="center">
