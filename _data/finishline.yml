@@ -111,12 +111,14 @@ defaults:
     tags:
      - 한국사회복지협의회 전국푸드뱅크 정보
     
-  - name: 52GSG 시검단
+  - name: 52GSGC
     finishline: 
-    title: 
+    title: Map기반 지역사회 ESG 소통의 첫걸음인 “GSG TAG Platform” 중 간편한 인증 서비스 제안
     blog_url: https://gsgtyag.itgsshop.com
-    content: 사회 취약계층과 食을 나누는 기쁨을 확대하기 위해 기부자와 제공자의 정보(기부품, 금액, 선호품 등)을 지도에 표현하고자 합니다.
+    content: GSG TAG Platform
     tags:
+     - KAKAO MAP & API
+     - 제주특별자치도_제주마을도보여행데이터
 
 tagmap:
   - tag: 초등돌봄교실
@@ -225,11 +227,11 @@ tagmap:
   - tag: 서울시미세먼지경보
     url: http://data.seoul.go.kr/dataList/OA-2228/S/1/datasetView.do
 
+  - tag: KAKAO MAP & API
+    url: https://map.kakao.com
+  - tag: 제주특별자치도_제주마을도보여행데이터
+    url: https://www.data.go.kr/data/15043495/fileData.do
 
-  - tag: 
-    url: 
-  - tag: 
-    url: 
   - tag: 
     url: 
   - tag: 

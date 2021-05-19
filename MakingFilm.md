@@ -24,7 +24,7 @@ tags: [MakingFilm]
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_gxqBTPwb0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-# 경연 intermediate Special Interview
+# (발표회 중) 틈새 인터뷰
 
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/utizRKc-SCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
