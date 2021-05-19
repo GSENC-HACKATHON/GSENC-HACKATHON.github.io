@@ -9,9 +9,11 @@ excerpt: HACKATHON의 소중한 History를 소개합니다.
 tags: [History]
 ---
 
--------------------------------------------------------------
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
 # 제1회 GS E&C - SUSTAINABLE HACKATHON (HOVERING)
+
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
 ## [주최 및 주관]
 
