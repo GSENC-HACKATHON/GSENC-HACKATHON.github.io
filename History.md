@@ -66,7 +66,7 @@ tags: [History]
 
 > ## 멘토 및 평가단
 
-<img src="/files/History/Mentor.png" style="width:80%; margin: 0 0 0 10px; border: 1px solid #ccc;">
+<img src="/files/History/Mentor.png" style="width:100%; margin: 0 0 0 10px; border: 1px solid #ccc;">
 <br><br>
 
 > ## 참가 인원 상세
