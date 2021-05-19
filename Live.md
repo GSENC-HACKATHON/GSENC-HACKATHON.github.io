@@ -15,8 +15,8 @@ tags: [Live]
 <img src="/files/1_HOVERING_HANGING_banner.png" style="width:100%;">
 
 <div id="content_head">
-	<img src="/assets/images/Logo_B.jpg" style="width:30%; float:left; border:1px solid #ccc; margin-right:12px">
-	[주제] 공개적 정보를 공공의 이익을 목적으로 지도 및 Insight Data로 표현하여 제공하기
+	<img src="/assets/images/Logo_B.jpg" style="width:30%; float:left; border:1px solid #ccc; margin-right:15px">
+	[주제]<br>공개적 정보를 공공의 이익을 목적으로 지도 및 Insight Data로 표현하여 제공하기
 </div>
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
