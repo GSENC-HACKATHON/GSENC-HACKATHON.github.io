@@ -1014,11 +1014,8 @@ body.tag-template #navbar {
     /*background: #f4f4f4;*/
     border: 1px solid #d4d4d4;
     padding: 10px;
-    font-size: 0.9em;
     overflow: auto;
     border-radius: 3px;
-	font-family: monospace;
-    font-weight: 300;
 }
 
 #post-content hr {
