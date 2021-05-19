@@ -1032,8 +1032,7 @@ body.tag-template #navbar {
 
 /* @@iolo */
 #post-content table {
-    margin: 1em auto;
-    border: 3px solid #f3cf00;
+    margin: 1em;
 }
 
 #post-content th {
@@ -1044,7 +1043,7 @@ body.tag-template #navbar {
 
 #post-content td {
     border: 1px solid #e6e6e6;
-    padding: 10px;
+    padding: 3px 20px;
 }
 
 #post-content .footnotes p {
