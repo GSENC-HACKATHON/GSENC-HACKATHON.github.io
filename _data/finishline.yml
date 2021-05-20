@@ -55,7 +55,7 @@ defaults:
     tags:
 
   - name: 서로고마운조
-    finishline: https://app.powerbi.com/view?r=eyJrIjoiNzc0NDgxMTMtMDhkMC00YTA5LWJmYmUtNjY2YjIyMDNlNzNlIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection01244d46753c807a27e3
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiZTJjZDRmODgtYzZiMi00NDI2LWFkZjItZmUxNjg4NTk2NzQ4IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection01244d46753c807a27e3
     title: 경기침체 및 코로나19상황으로 인한 전통시장기반의 지역경제 활성화방안
     blog_url: https://arcg.is/15Gf55
     content: 데이터를 근거로 전통시장 활성화를 위한 실질적인 방안과 특히 지자체와 대기업과의 상생 방안을 찾아보고자 하였습니다.
