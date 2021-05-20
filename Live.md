@@ -29,7 +29,7 @@ tags: [Live]
 <strong>발표자 : 정안나</strong></pre>
 
 <div class="video-container" align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/mAqScJ-wep8" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/yU3RBhrVdWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ------------------------------------------------
@@ -42,7 +42,7 @@ tags: [Live]
 <strong>발표자 : 허종호</strong></pre>
 
 <div class="video-container" align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/jh-W1eJBXSI" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/2zAHN0B4MYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ------------------------------------------------
@@ -55,7 +55,7 @@ tags: [Live]
 <strong>발표자 : 최상(GS Energy)</strong></pre>
 
 <div class="video-container" align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/N4otysG7-6I" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Epf-58vhkhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ------------------------------------------------
@@ -68,7 +68,7 @@ tags: [Live]
 <strong>발표자 : 권희진</strong></pre>
 	 
 <div class="video-container" align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/for7_yuNKZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/5tyJ3a1HEw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><br><br>
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
