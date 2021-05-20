@@ -85,6 +85,11 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 	max-width: 200px;
 }
 
+.pull-right_Recommendation{
+	float: right;
+	max-width: 200px;
+}
+
 .pull-right {
     float: right !important;
 }
@@ -1698,6 +1703,12 @@ body.page-template {
 		text-align: center;
 	}
 	
+	.pull-right_Recommendation{
+		float: none;
+		max-width: 200px;
+		text-align: center;
+	}
+	
 	#content_head {
 	font-size: 15px;
 	font-weight: 600;
@@ -1808,6 +1819,12 @@ body.page-template {
 		text-align: center;
 	}
 	
+	.pull-right_Recommendation{
+		float: none;
+		max-width: 150px;
+		text-align: center;
+	}	
+	
 	#content_head {
 	font-size: 15px;
 	font-weight: 600;
@@ -1913,6 +1930,12 @@ body.page-template {
 	}
 	
 	.pull-left_Recommendation {
+		float: none;
+		max-width: 200px;
+		text-align: center;
+	}
+
+	.pull-right_Recommendation{
 		float: none;
 		max-width: 200px;
 		text-align: center;
