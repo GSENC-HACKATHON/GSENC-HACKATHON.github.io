@@ -431,27 +431,33 @@ for small screen(<720px):
 
 #links > li > a {
     display: inline-block;
-    width: 20px;
-    height: 20px;
-    margin-left: 10px;
+    width: 21px;
+    height: 21px;
+    margin-left: 8px;
     background-repeat: no-repeat;
-    background-size: 20px 20px;
+    background-size: 21px 21px;
 }
 
-#link-github {
-    background-image: url(../images/pc/icon_git.png);
+#link-xi_icon {
+    background-image: url(../images/pc/icon_xi.png);
+    width: 40px !important;
+	background-size: 40px auto !important;
 }
 
-#link-facebook {
-    background-image: url(../images/pc/icon_face.png);
+#link-xi_home {
+    background-image: url(../images/pc/icon_home.png);
 }
 
-#link-twitter {
-    background-image: url(../images/pc/icon_twit.png);
+#link-xi_webzine {
+    background-image: url(../images/pc/icon_webzine.png);
 }
 
-#link-rss {
-    background-image: url(../images/pc/icon_rss.png);
+#link-xi_Youtube {
+    background-image: url(../images/pc/icon_youtube.png);
+}
+
+#link-xi_Naver_Post {
+    background-image: url(../images/pc/icon_naver.png);
 }
 
 #copyright {
@@ -1374,27 +1380,34 @@ body.page-template {
         text-align: center;
     }
 
-    #links > li > a {
-        width: 27px;
-        height: 27px;
-        background-size: 27px 27px;
+/*  #links > li > a {
+        width: 28px;
+        height: 28px;
+        background-size: 28px 28px;
     }
 
-    #links-github {
-        background-image: url(../images/mo/icon_git.png);
+	#link-xi_icon {
+		background-image: url(../images/mo/icon_xi.png);
+		width: 54px !important;
+		background-size: 54px 28px !important;
+	}
+
+    #link-xi_home {
+        background-image: url(../images/mo/icon_home.png);
     }
 
-    #links-facebook {
-        background-image: url(../images/mo/icon_face.png);
+    #link-xi_webzine {
+        background-image: url(../images/mo/icon_webzine.png);
     }
 
-    #links-twitter {
-        background-image: url(../images/mo/icon_twit.png);
+    #link-xi_Youtube {
+        background-image: url(../images/mo/icon_youtube.png);
     }
 
-    #links-rss {
-        background-image: url(../images/mo/icon_rss.png);
+    #link-xi_Naver_Post {
+        background-image: url(../images/mo/icon_naver.png);
     }
+*/
 
     #footer-menu {
         margin-top: 20px;
@@ -1762,21 +1775,25 @@ body.page-template {
     #page-next {
         background-image: url(../images/mo/icon_rarrow@2x.png);
     }
-
-    #link-github {
-        background-image: url(../images/mo/icon_git@2x.png);
+	
+	#link-xi_icon {
+		background-image: url(../images/mo/icon_xi@2x.png);
+	}
+	
+    #link-xi_home {
+        background-image: url(../images/mo/icon_home@2x.png);
     }
 
-    #link-facebook {
-        background-image: url(../images/mo/icon_face@2x.png);
+    #link-webzine {
+        background-image: url(../images/mo/icon_webzine@2x.png);
     }
 
-    #link-twitter {
-        background-image: url(../images/mo/icon_twit@2x.png);
+    #link-youtube {
+        background-image: url(../images/mo/icon_youtube@2x.png);
     }
 
-    #link-rss {
-        background-image: url(../images/mo/icon_rss@2x.png);
+    #link-xi_Naver_Post {
+        background-image: url(../images/mo/icon_naver@2x.png);
     }
 
     #link-back {
@@ -1878,21 +1895,25 @@ body.page-template {
     #page-next {
         background-image: url(../images/mo/icon_rarrow@3x.png);
     }
+	
+	#link-xi_icon {
+		background-image: url(../images/mo/icon_xi@3x.png);
+	}
 
-    #link-github {
-        background-image: url(../images/mo/icon_git@3x.png);
+    #link-xi_home {
+        background-image: url(../images/mo/icon_home@3x.png);
     }
 
-    #link-facebook {
-        background-image: url(../images/mo/icon_face@3x.png);
+    #link-webzine {
+        background-image: url(../images/mo/icon_webzine@3x.png);
     }
 
-    #link-twitter {
-        background-image: url(../images/mo/icon_twit@3x.png);
+    #link-youtube {
+        background-image: url(../images/mo/icon_youtube@3x.png);
     }
 
-    #link-rss {
-        background-image: url(../images/mo/icon_rss@3x.png);
+    #link-xi_Naver_Post {
+        background-image: url(../images/mo/icon_naver@3x.png);
     }
 
     #link-back {

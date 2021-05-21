@@ -23,7 +23,7 @@ krandown:
 plugins:
   - jekyll-paginate
 
-paginate: 11
+paginate: 12
 paginate_path: '/page/:num/'
 
 collections:
