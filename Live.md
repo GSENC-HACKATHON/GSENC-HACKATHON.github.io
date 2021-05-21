@@ -71,6 +71,33 @@ tags: [Live]
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/5tyJ3a1HEw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><br><br>
 
+------------------------------------------------
+
+# <u>[5TH] 'A.Bigs'</u>
+<pre class="highlight">
+<strong>주제 : 미세먼지 확산에 따른 호흡기환자/취약계층의 상관관계 분석, 시각화를 통한 지원 대상 및 방안 검토</strong>
+팀원 : 홍기락, 최민주, 정재희, 김신일
+소속 : 인프라부문 4명
+<strong>발표자 : 홍기락</strong></pre>
+	 
+<div class="video-container" align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/c5vGMHt4c4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><br><br>
+
+------------------------------------------------
+
+# <u>[6TH] '52GSGC'</u>
+<pre class="highlight">
+<strong>주제 : Map기반 지역사회 ESG 소통의 첫걸음인 “GSG TAG Platform” 간편한 인증 서비스 제안</strong>
+팀원 : 엄주영 (GS리테일), 임광규 (GS Shop), 김헌기 (GS Shop), 김민균 (GS건설)
+소속 : GS계열사 52g 팀
+<strong>발표자 : 엄주영 (GS리테일), 임광규 (GS Shop)</strong></pre>
+	 
+<div class="video-container" align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/QeRSGo0C2Ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><br><br>
+
+
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
 <br>
