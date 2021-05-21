@@ -95,7 +95,21 @@ tags: [Live]
 	 
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/QeRSGo0C2Ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+------------------------------------------------
+
+# <u>[7TH] '90년생하고싶은거다해'</u>
+<pre class="highlight">
+<strong>주제 : 지역별(수도권) / 나이별 / 상황 맞춤별 공공 돌봄 필터링 서비스 + 지역종합정보</strong>
+팀원 : 박종아, 박태호, 백시헌, 김봉완
+소속 : G.E본부 4명
+<strong>발표자 : 박태호</strong></pre>
+	 
+<div class="video-container" align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/de9BWm_ueeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><br><br>
+
 
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
