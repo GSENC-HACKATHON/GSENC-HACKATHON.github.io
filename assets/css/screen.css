@@ -1021,7 +1021,6 @@ body.tag-template #navbar {
     border: 1px solid #d4d4d4;
     padding: 10px;
     font-size: 0.9em;
-    white-space: pre;
     overflow: auto;
     border-radius: 3px;
 }

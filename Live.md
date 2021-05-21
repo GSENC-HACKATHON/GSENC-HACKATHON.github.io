@@ -69,7 +69,7 @@ tags: [Live]
 	 
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/5tyJ3a1HEw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><br><br>
+</div>
 
 ------------------------------------------------
 
@@ -82,7 +82,7 @@ tags: [Live]
 	 
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/c5vGMHt4c4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><br><br>
+</div>
 
 ------------------------------------------------
 
