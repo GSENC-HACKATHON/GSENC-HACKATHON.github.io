@@ -931,6 +931,12 @@ body.tag-template #navbar {
   padding-top: 150%;
 }
 
+.post-figma {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
 #post-content h1 {
     margin: 70px 0 30px 0;
     font-size: 26px;
@@ -1723,12 +1729,19 @@ body.page-template {
     }
 
     #logo {
-        background-image: url(../images/mo/GS_52gLogo@0.5x.png);
+		background-image: url(../images/mo/GS_52gLogo@0.5x.png);
+		width: 166px;
+		background-size: 166px 28px;
     }
 
     #menu-toggle {
         background-image: url(../images/mo/icon_menu@2x.png);
     }
+
+	#menu > li > a {
+		padding: 0 8px;
+		font-size: 85%;
+	}
 
     #search-toggle {
         background-image: url(../images/mo/icon_search@2x.png);
