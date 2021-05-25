@@ -195,7 +195,7 @@ tagmap:
   - tag: 지하철역
     url: http://data.seoul.go.kr/dataList/OA-12035/S/1/datasetView.do
   - tag: 주차장
-    url: https://www.data.go.kr/tcs/dss/selectStdDataDetailView.do
+    url: https://www.data.go.kr/data/15012896/standard.do
   - tag: 실폭도로
     url: https://www.juso.go.kr/addrlink/devLayerRequestWrite.do
   - tag: 버스정류장
