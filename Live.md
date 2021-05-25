@@ -108,7 +108,21 @@ tags: [Live]
 	 
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/de9BWm_ueeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><br><br>
+</div>
+
+------------------------------------------------
+
+# <u>[8TH] '로하스'</u>
+<pre class="highlight">
+<strong>주제 : 공공 데이터를 활용한 우리 동네 병원 찾기, “메디플레이스”</strong>
+팀원 : 장현규, 윤메솔, 소재민, 정구호
+소속 : 로그하우스그룹 4명
+<strong>발표자 : 윤메솔</strong></pre>
+	 
+<div class="video-container" align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Gl_lA64PkHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br><br>
 
 
 
