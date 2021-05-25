@@ -146,7 +146,6 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 /*
 for large screen(>=720px):
-
 +#header----------------------------------------+
 |#logo              #menu                #search|
 +-----------------------------------------------+
@@ -165,7 +164,6 @@ for large screen(>=720px):
 +-----------------------------------------------+
 |                                               |
 +-----------------------------------------------+
-
 for small screen(<720px):
 +#header----------------------------------------+
 |#menu-toggle      #logo          #search-toggle|
@@ -440,15 +438,22 @@ for small screen(<720px):
 
 #link-xi_icon {
     background-image: url(../images/pc/icon_xi.png);
+<<<<<<< HEAD
+=======
     width: 40px !important;
 	background-size: 40px auto !important;
+>>>>>>> eb7018a27a9522d982243c80c69105517354091e
 }
 
 #link-xi_home {
     background-image: url(../images/pc/icon_home.png);
 }
 
+<<<<<<< HEAD
+#link-xi_web_magazine {
+=======
 #link-xi_webzine {
+>>>>>>> eb7018a27a9522d982243c80c69105517354091e
     background-image: url(../images/pc/icon_webzine.png);
 }
 
@@ -769,11 +774,9 @@ a.tag:hover {
 +#cover-----------------------------------------+
 |                                               |
 +-----------------------------------------------+
-
 +#navbar----------------------------------------+
 |                                               |
 +-----------------------------------------------+
-
 +#content---------------------------------------+
 |                                               |
 |+#home-content--------------------------------+|
@@ -857,11 +860,9 @@ body.page-template #navbar {
 +#navbar----------------------------------------+
 |                                               |
 +-----------------------------------------------+
-
 +#cover-----------------------------------------+
 |                                               |
 +-----------------------------------------------+
-
 +#content---------------------------------------+
 |                                               |
 |+#post-content--------------------------------+|
@@ -873,7 +874,6 @@ body.page-template #navbar {
 |+---------------------------------------------+|
 |                                               |
 +-----------------------------------------------+
-
 +#post-links------------------------------------+
 |     #post-prev                 #post-next     |
 +-----------------------------------------------+
@@ -912,37 +912,35 @@ body.tag-template #navbar {
 }
 
 .post-powerbi {
-	position: relative;
-	margin: 15px 0;
-	width: 100%;
-	overflow: hidden;
-	padding-top: 60%; /* 16:9 Aspect Ratio */
+  position: relative;
+  margin: 15px 0;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 60%; /* 16:9 Aspect Ratio */
 }
 
 .post-powerbi-iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	width: 100%;
-	height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .post-gsgtag {
-    width: 800px;
-    margin: auto;
-    height: 100%;
-    display: flex;
-    align-items: center;
+  position: relative;
+  margin: 15px 0;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 150%;
 }
 
 .post-figma {
-    width: 100%;
-	margin: auto;
-    height: 100%;
-    display: flex;
-    align-items: center;
+  position: relative;
+  width: 100%;
+  height: auto;
 }
 
 #post-content h1 {
@@ -1022,8 +1020,8 @@ body.tag-template #navbar {
     /*background: #f4f4f4;*/
     border: 1px solid #d4d4d4;
     padding: 10px;
-	white-space: pre;
     font-size: 0.9em;
+    white-space: pre;
     overflow: auto;
     border-radius: 3px;
 }
@@ -1387,25 +1385,20 @@ body.page-template {
         height: 28px;
         background-size: 28px 28px;
     }
-
 	#link-xi_icon {
 		background-image: url(../images/mo/icon_xi.png);
 		width: 54px !important;
 		background-size: 54px 28px !important;
 	}
-
     #link-xi_home {
         background-image: url(../images/mo/icon_home.png);
     }
-
     #link-xi_webzine {
         background-image: url(../images/mo/icon_webzine.png);
     }
-
     #link-xi_Youtube {
         background-image: url(../images/mo/icon_youtube.png);
     }
-
     #link-xi_Naver_Post {
         background-image: url(../images/mo/icon_naver.png);
     }
