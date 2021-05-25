@@ -114,7 +114,7 @@ defaults:
   - name: 52GSGC
     finishline: 
     title: Map기반 지역사회 ESG 소통의 첫걸음인 “GSG TAG Platform” 중 간편한 인증 서비스 제안
-    blog_url: https://gsgtyag.itgsshop.com
+    blog_url: https://gsgtag.itgsshop.com/
     content: GSG TAG Platform
     tags:
      - KAKAO MAP & API
