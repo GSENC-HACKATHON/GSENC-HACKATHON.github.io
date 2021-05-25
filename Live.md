@@ -138,7 +138,7 @@ tags: [Live]
 
 ------------------------------------------------
 
-# <u>[9TH] '환경과 해커톤'</u>
+# <u>[10TH] '환경과 해커톤'</u>
 <pre class="highlight">
 <strong>주제 : 삶의 만족도와 관계된 지표 선택을 통해 개인선호도가 반영된 가장 적합한 도시 추천</strong>
 팀원 : 김은성, 김정일, 박성진, 최종석
@@ -147,6 +147,19 @@ tags: [Live]
 	 
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/w05HJxBGv8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+------------------------------------------------
+
+# <u>[11TH] '서로 고마운 조'</u>
+<pre class="highlight">
+<strong>주제 : 경기침체 및 코로나19상황으로 인한 전통시장기반의 지역경제 활성화방안</strong>
+팀원 : 김기석, 하유나, 김종명, 전진수
+소속 : 선행기술본부 3명, G.E본부 1명
+<strong>발표자 : 하유나</strong></pre>
+	 
+<div class="video-container" align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/HoQCIK1PYXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <br><br>
