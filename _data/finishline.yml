@@ -224,13 +224,13 @@ tagmap:
     url: https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=2707
 
   - tag: 한국사회복지협의회 전국푸드뱅크 정보
-    url: http://apis.data.go.kr/B460014/foodBankInfoService2
+    url: https://www.data.go.kr/data/3044697/fileData.do
 
   - tag: 서울시보육정책
     url: https://icare.seoul.go.kr/icare/user/bbs/BD_selectBbsList.do?q_bbsCode=1013
   - tag: 5대범죄발생율
     url: https://www.police.go.kr/www/open/publice/publice03_2018.jsp
-  - tag: 서울시공원통계
+  - tag: 서울시공원
     url: https://data.seoul.go.kr/dataList/360/S/2/datasetView.do
   - tag: CCTV수량 및 위치
     url: https://www.data.go.kr/data/15013094/standard.do
