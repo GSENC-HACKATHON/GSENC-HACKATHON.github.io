@@ -122,6 +122,20 @@ tags: [Live]
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Gl_lA64PkHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+------------------------------------------------
+
+# <u>[9TH] 'ESGEL'</u>
+<pre class="highlight">
+<strong>주제 : 푸드뱅크, 전국무료급식소 통합정보</strong>
+팀원 : 전민곤, 김동욱, 조용석, 이보리
+소속 : D.Energy 4명
+<strong>발표자 : 이보리</strong></pre>
+	 
+<div class="video-container" align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/yTJGfn01yNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <br><br>
 
 
