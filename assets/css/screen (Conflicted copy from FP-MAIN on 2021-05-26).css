@@ -942,7 +942,7 @@ body.tag-template #navbar {
   margin: 15px 0;
   width: 100%;
   overflow: hidden;
-  padding-top: 150%;
+  padding-top: 200%;
 }
 
 #post-content h1 {
@@ -1861,15 +1861,6 @@ body.page-template {
 	font-size: 15px;
 	font-weight: 600;
 	}
-	
-	.post-figma {
-		position: relative;
-		margin: 15px 0;
-		width: 100%;
-		overflow: hidden;
-		padding-top: 200%;
-	}
-	
 }
 
 /* responsive images - mobile(3x) */
@@ -1989,13 +1980,5 @@ body.page-template {
 	#content_head {
 	font-size: 15px;
 	font-weight: 600;
-	}
-	
-	.post-figma {
-		position: relative;
-		margin: 15px 0;
-		width: 100%;
-		overflow: hidden;
-		padding-top: 200%;
 	}
 }

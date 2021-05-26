@@ -48,11 +48,14 @@ defaults:
      - 상위질환의료보험급여
 
   - name: 변화의 실마리
-    finishline: https://app.powerbi.com/view?r=eyJrIjoiYjZhZjBhOWEtMjI4Zi00NTQwLTkwN2MtNjZlNTk5ZTUwYzUzIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiMDI3N2Y1OTMtNmM1Mi00MmI5LWI0NWQtMzEzMGU0MjA5MTk2IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection39cfd0a5a2089c5b6198
     title: 정치인들의 공약, 空約 No!!!  公約 Yes!!!
     blog_url: 
     content: 우리 지역 정치인의 공약이 무엇이었는지, 잘 지켜지고 있는지 한눈에 볼 수 있었으면 하는 Needs에 선거공약 모니터링 Map을 만들게 되었습니다.
     tags:
+     - 중앙선거관리위원회 코드정보
+     - 중앙선거관리위원회 선거공약정보
+     - 중앙선거관리위원회 당선인정보
 
   - name: 서로고마운조
     finishline: https://app.powerbi.com/view?r=eyJrIjoiZTJjZDRmODgtYzZiMi00NDI2LWFkZjItZmUxNjg4NTk2NzQ4IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection01244d46753c807a27e3
@@ -121,10 +124,9 @@ defaults:
      - 제주특별자치도_제주마을도보여행데이터
      
   - name: 52g시검단
-    finishline: https://www.figma.com/proto/OJQFJkPj3CuOyg3dTJ9nfu/%ED%98%B8%EB%B2%84%EB%A7%81_%EB%B6%88%EC%B9%A8%EB%B2%88?node-id=116%3A2&scaling=contain&page-id=50%3A299
     finishline: https://www.figma.com/proto/OJQFJkPj3CuOyg3dTJ9nfu/%ED%98%B8%EB%B2%84%EB%A7%81_%EB%B6%88%EC%B9%A8%EB%B2%88?node-id=47%3A62&scaling=scale-down&page-id=0%3A1
     title: 초보 아빠를 위한 산책 정보 제공 공공 Application의 Prototyping
-    blog_url:
+    blog_url: https://www.figma.com/proto/OJQFJkPj3CuOyg3dTJ9nfu/%ED%98%B8%EB%B2%84%EB%A7%81_%EB%B6%88%EC%B9%A8%EB%B2%88?node-id=116%3A2&scaling=contain&page-id=50%3A299
     content: 아빠도 아빠가 처음이야
     tags:
      - 서울시공중화장실
@@ -258,3 +260,10 @@ tagmap:
     url: http://data.seoul.go.kr/dataList/datasetList.do
   - tag: 스마트서울맵
     url: https://map.seoul.go.kr/smgis2/
+    
+  - tag: 중앙선거관리위원회 코드정보
+    url: https://www.data.go.kr/data/15000897/openapi.do
+  - tag: 중앙선거관리위원회 선거공약정보
+    url: https://www.data.go.kr/data/15040587/openapi.do
+  - tag: 중앙선거관리위원회 당선인정보
+    url: https://www.data.go.kr/data/15000864/openapi.do
