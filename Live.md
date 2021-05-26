@@ -129,7 +129,7 @@ tags: [Live]
 <pre class="highlight">
 <strong>주제 : 푸드뱅크, 전국무료급식소 통합정보</strong>
 팀원 : 전민곤, 김동욱, 조용석, 이보리
-소속 : D.Energy 4명
+소속 : D.Energy(분산형에너지)부문 4명
 <strong>발표자 : 이보리</strong></pre>
 	 
 <div class="video-container" align="center">
