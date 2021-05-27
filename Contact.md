@@ -2,8 +2,8 @@
 layout: page
 title: GS E&C - HACKATHON　
 title_1: Contact
-image: /files/covers/Privacy.jpg
-permalink: /Privacy/
+image: /files/covers/Contact.jpg
+permalink: /Contact/
 sitemap: yes
 ---
 
