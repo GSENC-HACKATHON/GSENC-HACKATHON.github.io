@@ -15,7 +15,7 @@ _`※ 관련 문의 및 민원은 아래의 연락처로 연락 부탁드립니�
 
 	- 이름 : 김도현
 	- 직책 : 전임
-	- 역무 : "GS E&C - HACKATHON" Site 관리자
+	- 역무 : "GS E&C - HACKATHON" Site 관리자 및 운영진
 	- 메일 : dhkim21@gsenc.com
 
 <br>
