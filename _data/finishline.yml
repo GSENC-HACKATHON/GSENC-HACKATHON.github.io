@@ -19,7 +19,7 @@ defaults:
      - 중위소득정보2
 
   - name: TeamArtech
-    finishline: https://app.powerbi.com/view?r=eyJrIjoiNDdjYWQ3YTUtYzc5Ny00M2NlLWExNjgtNTcwNGYxMTNkOGM4IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiM2VhZWU2MjUtMzExZS00NzIzLThhMjUtNTU5MTFhNDQ1NTFlIiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection5bde12851510639bcb60
     title: 서울시 공공데이터를 활용한 자치구별 통합 보육정보서비스
     blog_url: 
     content: 우리 아이를 키우고 싶은 동네는 어디일까요?
@@ -72,7 +72,7 @@ defaults:
      - 주차장
      - 실폭도로
      - 버스정류장
-     - 건물(3D)    
+     - 건물   
 
   - name: 로하스
     finishline: https://app.powerbi.com/view?r=eyJrIjoiYmVlNTljMGItZTFmZS00MTU2LThiNjctNGMwZmI2NGVkYTg2IiwidCI6IjJiNmNjMDkxLTQzNTgtNDBiNS04MmJmLTdlZGIyMjU0OGU2ZCJ9&pageName=ReportSection8d5d17b0270ab538e049
@@ -202,7 +202,7 @@ tagmap:
     url: https://www.juso.go.kr/addrlink/devLayerRequestWrite.do
   - tag: 버스정류장
     url: http://data.seoul.go.kr/dataList/OA-15067/S/1/datasetView.do
-  - tag: 건물(3D)
+  - tag: 건물
     url: https://www.juso.go.kr/addrlink/devLayerRequestWrite.do
 
   - tag: 전국병의원및약국현황
