@@ -1,0 +1,21 @@
+---
+layout: page
+title: GS E&C - HACKATHON　
+title_1: Contact
+image: /files/covers/Privacy.jpg
+permalink: /Privacy/
+sitemap: yes
+---
+
+-----------------------------------------------
+
+# "GS E&C - HACKATHON" Site 관리자 연락처 #
+'GS E&C - Hackathon' Site 관련 문의 및 민원은 아래의 연락처로 연락 부탁드립니다.
+
+__'GS E&C - Hackathon' Site 관리자__
+- 이름 : 김도현
+- 직책 : 관리자
+- 메일 : <dhkim21@gsenc.com>
+
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+
