@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: draft
 title: GS E&C - HACKATHON　
 title_1: Privacy Policy
 image: /files/covers/Privacy.jpg
