@@ -50,7 +50,7 @@ tags: [History]
 
 > ## 운영진
 
-<img src="/files/History/OperatorList.jpg" style="max-width:406px;">
+<img src="/files/History/OperatorList.jpg" style="width:100%; max-width:406px;">
 
 <br>
 
