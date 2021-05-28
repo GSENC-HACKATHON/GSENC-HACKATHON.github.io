@@ -50,16 +50,7 @@ tags: [History]
 
 > ## 운영진
 
-|이름|소속| 협의체 | ('21) 52g |
-|---|:---:|:---:|:---:|
-|서아란|조직개발팀|O|Crew|
-|김도현|DevENG(G.E)|O|Facilitator|
-|최준식|조직개발팀| |Facilitator|
-|윤현지|DevENG(G.E)| |Catalyst|
-|지영덕|전사IT|O| |
-|배수진|Gstart-Up| |Crew|
-|남동수|Plant IT| | |
-|임한별|조직개발팀| |Catalyst|
+<img src="/files/History/OperatorList.jpg" style="max-width:406px;">
 
 <br>
 
