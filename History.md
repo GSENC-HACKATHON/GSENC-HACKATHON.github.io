@@ -36,7 +36,7 @@ tags: [History]
 > 비고1 : (교육) 거리두기 적용, (경연) 비대면 환경 적용   
 > 비고2 : GS Shop 3명, GS리테일 1명, GS파워 1명, GS에너지 1명 계열사 참가
 
-> 비고3 : Power BI 강의 - 송윤희 (Microsoft MVP)
+> Power BI 강의 - 송윤희 (Microsoft MVP)
 
 <img src="/files/1_HOVERING_HANGING_banner.png" style="width:100%;">
 
