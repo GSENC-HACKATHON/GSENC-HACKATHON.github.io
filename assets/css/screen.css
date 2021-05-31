@@ -1401,12 +1401,13 @@ body.page-template {
         text-align: center;
     }
 
-/*  #links > li > a {
+	#links > li > a {
         width: 28px;
         height: 28px;
         background-size: 28px 28px;
     }
 
+/* 
 	#link-xi_icon {
 		background-image: url(../images/mo/icon_xi.png);
 		width: 54px !important;
