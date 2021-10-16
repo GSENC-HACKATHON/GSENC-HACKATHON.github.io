@@ -4,7 +4,7 @@ title: "[Starry Night] RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 �
 author: StarryNgiht_Neotech
 date: 2021-10-21 00:00:00 +09:00
 tags: [jwkim23, StarryNight]
-image: /files/2_StarryNight/Post/1/2_1_pic_H.jpg
+image: /files/2_StarryNight/Post/Posthead_1.png
 discription: "[Power Automate를 통한 자동화 Idea]
 Flow 1_팀원들이 임의로 작성한 Table의 RSS Feed Source를 기준으로 주기적인 RSS Feed Article 확인 및 저장
 Flow 2_팀원들이 임의로 작성한 Topic/Keyword를 Article Title 기준으로 색인하여 해당 Topic/Keyword에 해당하는 Article를 임의 설정 주기마다 Teams 채팅에 공유
@@ -14,7 +14,7 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 # 팀명 : Neotech
 
-> **소속 : G.E본부  >  Neotech팀 1명**
+> **소속 : G.E본부 / Neotech팀 1명**
 
 ![](/files/2_StarryNight/Post/1/2_1_pic_T.jpg)
 
