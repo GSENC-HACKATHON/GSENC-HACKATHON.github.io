@@ -45,6 +45,8 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 ![](/files/2_StarryNight/Teamlogo/Starry Night OP_1T.png)
 
+<img src="/files/2_StarryNight/Teamlogo/Starry Night OP_1T.png" style="width:300px; height:300px;">
+
 ----------------------------------------------------------------------------------------
 
 # 결과 및 발표
