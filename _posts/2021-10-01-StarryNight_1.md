@@ -32,14 +32,12 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 ----------------------------------------------------------------------------------------
 
 # 주제 
-##### : RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유
+> ##### : RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유
 
 
 # 설명
 [Power Automate를 통한 자동화 Idea]<br>
-Flow 1_팀원들이 임의로 작성한 Table의 RSS Feed Source를 기준으로 주기적인 RSS Feed Article 확인 및 저장<br>
-Flow 2_팀원들이 임의로 작성한 Topic/Keyword를 Article Title 기준으로 색인하여 해당 Topic/Keyword에 해당하는 Article를 임의 설정 주기마다 Teams 채팅에 공유<br><br>
-Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기사 확인할 수 있도록 하고 Accordian 기능으로 Teams 채팅창을 간결하게 유지
+>Flow 1_팀원들이 임의로 작성한 Table의 RSS Feed Source를 기준으로 주기적인 RSS Feed Article 확인 및 저장<br>Flow 2_팀원들이 임의로 작성한 Topic/Keyword를 Article Title 기준으로 색인하여 해당 Topic/Keyword에 해당하는 Article를 임의 설정 주기마다 Teams 채팅에 공유<br><br>Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기사 확인할 수 있도록 하고 Accordian 기능으로 Teams 채팅창을 간결하게 유지
 <br><br><br>
 <center><img src="/files/2_StarryNight/Teamlogo/Starry Night OP_1T.png" style="width:450px; height:450px;"></center>
 
