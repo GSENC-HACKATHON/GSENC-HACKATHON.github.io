@@ -16,7 +16,7 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 > **소속 : G.E본부 / Neotech팀 1명**
 
-![](/files/2_StarryNight/Post/1/2_1_pic_.jpg)
+![](/files/2_StarryNight/Post/1/2_1_pic_T.jpg)
 
 ----------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 <br><br><br>
 
-![](/files/2_StarryNight/Post/1/2_1_pic_T.jpg)
+![](/files/2_StarryNight/Teamlogo/Starry Night OP_1T.png)
 
 ----------------------------------------------------------------------------------------
 
@@ -39,10 +39,10 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 # 설명
 [Power Automate를 통한 자동화 Idea]<br>
->Flow 1_팀원들이 임의로 작성한 Table의 RSS Feed Source를 기준으로 주기적인 RSS Feed Article 확인 및 저장<br>Flow 2_팀원들이 임의로 작성한 Topic/Keyword를 Article Title 기준으로 색인하여 해당 Topic/Keyword에 해당하는 Article를 임의 설정 주기마다 Teams 채팅에 공유<br><br>Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기사 확인할 수 있도록 하고 Accordian 기능으로 Teams 채팅창을 간결하게 유지
+>Flow 1_팀원들이 임의로 작성한 Table의 RSS Feed Source를 기준으로 주기적인 RSS Feed Article 확인 및 저장<br>Flow 2_팀원들이 임의로 작성한 Topic/Keyword를 Article Title 기준으로 색인하여 해당 Topic/Keyword에 해당하는 Article를 임의 설정 주기마다 Teams 채팅에 공유
 
-<br><br><br>
-![](/files/2_StarryNight/Teamlogo/Starry Night OP_1T.png)
+<br><br>Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기사 확인할 수 있도록 하고 Accordian 기능으로 Teams 채팅창을 간결하게 유지
+
 
 ----------------------------------------------------------------------------------------
 
