@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유"
+title: "[Starry Night] RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유"
 author: StarryNgiht_Neotech
 date: 2021-10-21 00:00:00 +09:00
 tags: [jwkim23, StarryNight]
@@ -22,14 +22,14 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 # 팀원
 
-<center><img src="/files/2_StarryNight/Post/1/01-1.jpg" style="width:120px; height:120px; border-radius:50%; border: 1px solid #ccc; margin-bottom: 5px;"></center>
+<center><img src="/files/2_StarryNight/Post/1/01-0.jpg" style="width:120px; height:120px; border-radius:50%; border: 1px solid #ccc; margin-bottom: 5px;"></center>
 ##### <center>김진욱 (jwkim23)</center>
 
 ‘Starry Night’을 통하여 저는 막연하게 생각하던 Digital Transformation에 대하여 자발적인 흥미를 가지고 업무 효율화 기회를 찾기 시작하여, 개인적으로는 또 다른 출발을 한 계기가 되었습니다.
 또한, 자동화 예시 및 경연으로 말미암아 우리 GS건설 직원이 더욱 집중해야할 영역은 선배님들의 축적경험과 각 직원의 인간지성을 기반으로 한 정보의 판단과 의사결정, 또는 비판적 검토를 통한 기회 창출이라는 나름의 깨달음으로, Starry Night 이후 회사 가치 창출에 대한 새로운 시각을 경험하고 있습니다.
 이러한 기회를 주신 데 감사의 말씀을 드리며, 지금과 같이 앞으로도 Digital Transformation 기회에 대하여 전사적으로 동참, 탐색 및 창출하는 기조가 지속 발전되기를 희망합니다.
 
-<br><br>
+<br>
 
 ----------------------------------------------------------------------------------------
 
@@ -51,14 +51,14 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/LcuvNTYsANA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div><br>
 
 ----------------------------------------------------------------------------------------
+
+# 사진
 
 ![](/files/2_StarryNight/Post/1/2_1_pic_A.jpg)
 
-![](/files/2_StarryNight/Post/1/2_1_pic_B.jpg)
-
 ![](/files/2_StarryNight/Post/1/2_1_B.jpg)
 
-----------------------------------------------------------------------------------------
+![](/files/2_StarryNight/Post/1/2_1_pic_B.jpg)
