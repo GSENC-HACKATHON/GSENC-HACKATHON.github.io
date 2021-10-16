@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유"
+title: "RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유"
 author: StarryNgiht_Neotech
 date: 2021-10-21 00:00:00 +09:00
 tags: [jwkim23, StarryNight]
-image: /files/2_StarryNight/post/1/2_1_pic_1.png
+image: /files/2_StarryNight/post/1/2_1_pic_H.jpg
 discription: "[Power Automate를 통한 자동화 Idea]
 Flow 1_팀원들이 임의로 작성한 Table의 RSS Feed Source를 기준으로 주기적인 RSS Feed Article 확인 및 저장
 Flow 2_팀원들이 임의로 작성한 Topic/Keyword를 Article Title 기준으로 색인하여 해당 Topic/Keyword에 해당하는 Article를 임의 설정 주기마다 Teams 채팅에 공유
@@ -14,15 +14,15 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 # 팀명 : Neotech
 
-> **소속 : G.E본부 > Neotech팀 1명**
+> **소속 : G.E본부  >  Neotech팀 1명**
 
-![](/files/2_StarryNight/post/1/2_1_2.png)
+![](/files/2_StarryNight/post/1/2_1_pic_T.jpg)
 
 ----------------------------------------------------------------------------------------
 
 # 팀원
 
-<center><img src="/files/2_StarryNight/post/1/2_1_jwkim23_f.jpg" style="width:120px; height:120px; border-radius:50%; border: 1px solid #ccc; margin-bottom: 5px;"></center>
+<center><img src="/files/2_StarryNight/post/1/01-1.jpg" style="width:120px; height:120px; border-radius:50%; border: 1px solid #ccc; margin-bottom: 5px;"></center>
 ##### <center>김진욱 (jwkim23)</center>
 
 ‘Starry Night’을 통하여 저는 막연하게 생각하던 Digital Transformation에 대하여 자발적인 흥미를 가지고 업무 효율화 기회를 찾기 시작하여, 개인적으로는 또 다른 출발을 한 계기가 되었습니다.
@@ -31,8 +31,6 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 <br><br>
 
-![](/files/2_StarryNight/post/1/2_1_pic_2.png)
-
 ----------------------------------------------------------------------------------------
 
 # 주제 
@@ -40,19 +38,27 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 
 
 # 설명
-[Power Automate를 통한 자동화 Idea]
-Flow 1_팀원들이 임의로 작성한 Table의 RSS Feed Source를 기준으로 주기적인 RSS Feed Article 확인 및 저장
-Flow 2_팀원들이 임의로 작성한 Topic/Keyword를 Article Title 기준으로 색인하여 해당 Topic/Keyword에 해당하는 Article를 임의 설정 주기마다 Teams 채팅에 공유
+[Power Automate를 통한 자동화 Idea]<br>
+Flow 1_팀원들이 임의로 작성한 Table의 RSS Feed Source를 기준으로 주기적인 RSS Feed Article 확인 및 저장<br>
+Flow 2_팀원들이 임의로 작성한 Topic/Keyword를 Article Title 기준으로 색인하여 해당 Topic/Keyword에 해당하는 Article를 임의 설정 주기마다 Teams 채팅에 공유<br><br>
 Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기사 확인할 수 있도록 하고 Accordian 기능으로 Teams 채팅창을 간결하게 유지
 
-![](/files/2_StarryNight/post/1/2_image_1.png)
+![](/files/2_StarryNight/Teamlogo/Starry Night OP_1T.png)
 
 ----------------------------------------------------------------------------------------
 
-# 발표
+# 결과 및 발표
 
 <div class="video-container" align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/LcuvNTYsANA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+----------------------------------------------------------------------------------------
+
+![](/files/2_StarryNight/post/1/2_1_pic_A.jpg)
+
+![](/files/2_StarryNight/post/1/2_1_pic_B.jpg)
+
+![](/files/2_StarryNight/post/1/2_1_B.jpg)
 
 ----------------------------------------------------------------------------------------
