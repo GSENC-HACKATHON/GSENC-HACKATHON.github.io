@@ -1,48 +1,53 @@
 ---
 layout: post
-title: "[Starry Night] Insight 활동 자동화 Solution 개발"
-author: StarryNgiht_환결솔루션
+title: "[Starry Night] 배관 Spool 관리 및 입력 System (Mobile 겸용)"
+author: StarryNgiht_배관소방
 date: 2021-10-01 00:00:00 +09:00
-tags: [kdshim, ktkim05, StarryNight]
+tags: [shhwang5, StarryNight]
 image: /files/2_StarryNight/Post/Posthead_4.png
-discription: "환경솔루션팀은 물과 폐기물. 바이오매스 등 환경 전반에 걸친 기술을 연구하고 있으며, 연구조직으로서 미래 먹거리를 찾는 Insight 활동을 활발히 하고 있습니다. 인터넷으로 최신 연구동향 및 소식들을 꾸준히 찾고 있으며 이러한 활동은 각 연구자들에게 많은 도움을 주고 있습니다. 이런 과정들은 단순한 업무지만 시간이 많이 소요되기 때문에 Insight 활동을 자동으로 해주는 솔루션을 개발하고자 하였습니다. 금회 개발한 솔루션은 각 연구자들의 관심 업무에 대한 키워드를 Power Automate의 RSS 기능을 적용한 자동검색을 통해 Google News의 최신 연구동향을 확인할 수 있습니다. 개발된 어플리케이션은 매일 주기적으로 검색어를 요청하는 모듈 및 검색어를 통해 Google News를 검색하여 파일로 저장하고 팀원에게 공유해 줄 수 있습ㄴ디ㅏ. 다양한 분야의 최신 기술동향을 공유함으로서 연구자들의 관심도 및 이해도 향상, 기술의 최신 트렌드 등을 확인하고 연구진행에 대한 방향성을 확인할 수 있어 팀 구성원 모두에게 그 가치를 제공하고자 하였습니다."
+discription: "Piping Spool 현장 관리 Application 개발 (Mobile & Desktop)
+1) Piping Spool 제작, 설치, 검사 업무관련 작업 기록 기능
+2) 작업 완료 후 다음 사용자에게 알림 기능
+3) Piping Spool 작업 기록 확인 기능
+4) 관련 도면 확인 기능
+5) Piping Spool Location Tracking 기능"
 ---
 
 
 # 팀명 : 환경솔루션
 
-> **소속 : G.E본부 / 환경솔루션팀 2명**
+> **소속 : G.E본부 / 배관소방설계팀 1명**
 
-![](/files/2_StarryNight/Post/1/2_2_pic_T.jpg)
+![](/files/2_StarryNight/Post/1/2_3_pic_T.jpg)
 
 ----------------------------------------------------------------------------------------
 
 # 팀원
 
-<center><img src="/files/2_StarryNight/Post/2/08-0.jpg" style="width:120px; height:120px; border-radius:50%; border: 1px solid #ccc; margin-bottom: 5px;"></center>
-##### <center>심규대 (kdshim)</center>
+<center><img src="/files/2_StarryNight/Post/3/02-0.jpg" style="width:120px; height:120px; border-radius:50%; border: 1px solid #ccc; margin-bottom: 5px;"></center>
+##### <center>황상호 (shhwang5)</center>
 
->이번 교육을 통해 Digital Transformation(DT)이 경영진의 과제라고만 인식하던 개인적인 시각이 변하게 되었습니다. 업무에서 사용하는 상용 프로그램을 활용할때 이번에 교육한 Power Automate와 같은 Tool로 업무를 쉽고 빠르게 할 수 있으면 기존 업무방식에서 탈피해 개인별로도 다양한 DT가 이루어질 것이라 판단됩니다. 그리고 이러한 기회를 접할 수 있는 직원이 많아 질 수 있도록 다양한 교육 기회가 제공되었으면 하고, 회사에서도 DT의 구체적인 방향을 수립해 추진했으면 합니다. 마지막으로 본 강의를 준비하고 진행하신 강사님과 담당자분들게 감사드립니다!
-
-<br><br>
-
-<center><img src="/files/2_StarryNight/Post/2/09-0.jpg" style="width:120px; height:120px; border-radius:50%; border: 1px solid #ccc; margin-bottom: 5px;"></center>
-##### <center>김기태 (ktkim05)</center>
-
->개인적으로 쉽게 접할 수 없는 IT분야의 최신 기술을 배우고, 이를 통해 프로그램을 개발할 수 있어서 정말 좋았습니다. 건설이라고 하면 옛날 기술이고 기술 개발도 많이 느리다고 생각하지만 금회 교육받았던 내용을 접목하여 실제 업무에 적용한다면 상당한 효과가 있을 것으로 생각됩니다. 실제로 몇몇 팀원분들은 저희가 개발한 “Insight 활동 자동화 솔루션 개발”에 관심을 보이고 계시며, 실제로 적용할 예정입니다. 앞으로도 이러한 기회가 개인적으로나 팀원들 모두에게 더 많이 제공되었으면 하는 바람이 있으며, 실제 업무에도 활용될 수 있도록 더 신경을 쓰려고 합니다. 이러한 교육을 기획하고 열정적으로 가르쳐 주신 강사님 및 담당자분들게 감사의 인사를 드립니다.
+>Power Apps & Automate는 Application 개발 개념을 익힐 수 있는 재밌는 App인 것 같다. Form Design은 PPT UI와 유사하고, Event Code는 Excel 함수 처럼 입력한다. 자체 DB Table과 연동도 쉽다. 조직 구성원이 엑셀 또는 메일로 어떤 내용을 작성해서 보내고 누군가 취합하던 업무가 있다면 Forms & Power Apps를 이용하면 좋을 것 같다. 물론 쉽고 단순한 만큼 다른 Code, Dev Tool에 비해 한계도 보인다. 이런 교육을 또 한다면 DT Trend에 발맞춰 온라인 & 동영상 교육으로 진행 하면 어떨까? 보다 많은 직원의 참여가 가능할 것 같다.
 
 <br><br>
 
 ----------------------------------------------------------------------------------------
 
-![](/files/2_StarryNight/Teamlogo/Starry Night OP_2T.png)
+![](/files/2_StarryNight/Teamlogo/Starry Night OP_3T.png)
 
 # 주제 
-> ##### : Insight 활동 자동화 Solution 개발
+> ##### : 배관 Spool 관리 및 입력 System (Mobile 겸용)
 
 
 # 설명
->환경솔루션팀은 물과 폐기물. 바이오매스 등 환경 전반에 걸친 기술을 연구하고 있으며, 연구조직으로서 미래 먹거리를 찾는 Insight 활동을 활발히 하고 있습니다. 인터넷으로 최신 연구동향 및 소식들을 꾸준히 찾고 있으며 이러한 활동은 각 연구자들에게 많은 도움을 주고 있습니다. 이런 과정들은 단순한 업무지만 시간이 많이 소요되기 때문에 Insight 활동을 자동으로 해주는 솔루션을 개발하고자 하였습니다. 금회 개발한 솔루션은 각 연구자들의 관심 업무에 대한 키워드를 Power Automate의 RSS 기능을 적용한 자동검색을 통해 Google News의 최신 연구동향을 확인할 수 있습니다. 개발된 어플리케이션은 매일 주기적으로 검색어를 요청하는 모듈 및 검색어를 통해 Google News를 검색하여 파일로 저장하고 팀원에게 공유해 줄 수 있습ㄴ디ㅏ. 다양한 분야의 최신 기술동향을 공유함으로서 연구자들의 관심도 및 이해도 향상, 기술의 최신 트렌드 등을 확인하고 연구진행에 대한 방향성을 확인할 수 있어 팀 구성원 모두에게 그 가치를 제공하고자 하였습니다.
+>Piping Spool 현장 관리 Application 개발 (Mobile & Desktop)<br>
+1) Piping Spool 제작, 설치, 검사 업무관련 작업 기록 기능<br>
+2) 작업 완료 후 다음 사용자에게 알림 기능<br>
+3) Piping Spool 작업 기록 확인 기능<br>
+4) 관련 도면 확인 기능<br>
+5) Piping Spool Location Tracking 기능<br>
+
+* 경연을 위한  Conceptual Application이며, 실제 사용을 위해서는 현장 요건 및 업무 절차에 따라 Customizing 및 다른 Code & Tool로 개발 필요함.
 
 
 ----------------------------------------------------------------------------------------
@@ -50,15 +55,15 @@ discription: "환경솔루션팀은 물과 폐기물. 바이오매스 등 환경
 # 결과 및 발표
 
 <div class="video-container" align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/cx2Qd0x3nN0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/QnOtrkSWXKQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><br>
 
 ----------------------------------------------------------------------------------------
 
 # 과정 사진
 
-![](/files/2_StarryNight/Post/1/2_2_pic_A.jpg)
+![](/files/2_StarryNight/Post/1/2_3_pic_A.jpg)
 
-![](/files/2_StarryNight/Post/1/2_2_B.jpg)
+![](/files/2_StarryNight/Post/1/2_3_B.jpg)
 
-![](/files/2_StarryNight/Post/1/2_2_pic_B.jpg)
+![](/files/2_StarryNight/Post/1/2_3_pic_B.jpg)

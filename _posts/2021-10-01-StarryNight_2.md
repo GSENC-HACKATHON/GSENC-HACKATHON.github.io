@@ -13,7 +13,7 @@ discription: "환경솔루션팀은 물과 폐기물. 바이오매스 등 환경
 
 > **소속 : G.E본부 / 환경솔루션팀 2명**
 
-![](/files/2_StarryNight/Post/1/2_2_pic_T.jpg)
+![](/files/2_StarryNight/Post/2/2_2_pic_T.jpg)
 
 ----------------------------------------------------------------------------------------
 
@@ -57,8 +57,8 @@ discription: "환경솔루션팀은 물과 폐기물. 바이오매스 등 환경
 
 # 과정 사진
 
-![](/files/2_StarryNight/Post/1/2_2_pic_A.jpg)
+![](/files/2_StarryNight/Post/2/2_2_pic_A.jpg)
 
-![](/files/2_StarryNight/Post/1/2_2_B.jpg)
+![](/files/2_StarryNight/Post/2/2_2_B.jpg)
 
-![](/files/2_StarryNight/Post/1/2_2_pic_B.jpg)
+![](/files/2_StarryNight/Post/2/2_2_pic_B.jpg)
