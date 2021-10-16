@@ -52,7 +52,7 @@ Note: Teams 공유 시 Adaptive Card Format을 이용, 단순 클릭으로 기�
 # 발표
 
 <div class="video-container" align="center">
-	<iframe width="560" height="315" src="https://youtu.be/LcuvNTYsANA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/LcuvNTYsANA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ----------------------------------------------------------------------------------------
