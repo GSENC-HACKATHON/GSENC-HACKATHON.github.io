@@ -90,16 +90,19 @@ tags: [History]
 
 > ## 특별 지원
 
-<img src="/files/History/2_StarryNight/52gLogo.png" style="width:100%; max-width:200px;">
+<img src="/files/History/2_StarryNight/52gLogo.png" style="width:100%; max-width:130px;">
 
 
 > 비고 : (교육) 거리두기 적용, (경연) 비대면 환경 적용 및 COVID19 자가검사 Kit 매일 시행
 
+
+<br><br>
 ----------------------------------------------------------------------------------------------
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 ----------------------------------------------------------------------------------------------
+<br><br>
 
 
 # [제 1 회] SUSTAINABLE HACKATHON
