@@ -11,10 +11,6 @@ tags: [Live]
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
-<img src="/files/Live/Live.png" style="width:100%;">
-
-<img src="/files/1_HOVERING_HANGING_banner.png" style="width:100%;">
-
 <div id="content_head">
 	<img src="/files/2_StarryNight/Logo/Starry Night Logo_Symbol_small.png" style="width:30%; border-radius:50%; float:left; border:1px solid #ccc; margin-right:15px">
 	[주제] 팀 별 일반 또는 고유 업무에 대하여 Power Platform을 통해 업무 시스템을 직접 제작 (Digital화 및 경쟁력을 확보)
@@ -42,6 +38,8 @@ tags: [Live]
 <br><br>
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+
+<img src="/files/Live/Live.png" style="width:100%;">
 
 <img src="/files/1_Hovering/1_HOVERING_HANGING_banner.png" style="width:100%;">
 
