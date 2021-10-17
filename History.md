@@ -10,7 +10,94 @@ tags: [History]
 ---
 
 
-# [제1회] SUSTAINABLE HACKATHON
+
+# [제 2 회] G.E본부 및 기술본부 Digitalizing 업무 경쟁력 확보를 위한 업무 시스템 경연
+
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+
+<img src="/files/2_StarryNight/Logo/Starry Night Logo_Symbol_small.png" style="width:100px; margin: 27px 18px 40px 0; border-radius:50%; border: 1px solid #ccc;" class="pull-left">
+
+# 제목 : STARRY NIGHT
+
+#### 주제 : 팀 별 일반 또는 고유 업무에 대하여 Power Platform을 통해 업무 시스템을 직접 제작 (Digital화 및 경쟁력을 확보)
+
+<br>
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+<br>
+
+
+> ## 주최
+
+**
+- Global Engineering 본부 & 선행기술본부
+- (兼)본부장 : 조성한 전무
+- G.E본부 : EM팀 서경수 팀장 / 선행기술본부 : 기술기획팀 정창환 팀장
+- G.E본부 Codi. : EM팀 김효진 전임 / 선행기술본부 Codi. : 기술기획팀 은재환 책임
+**
+
+> ## 발표회
+
+**
+- 일시 : 2021.10.01 오후 2시 ~ 4시
+- 진행방식(장소) : 비대면 발표회 (Live Streaming) 
+- 참여팀 : 총 8개팀   
+- 참여인원 : 총 18명 (팀당 1~4명)
+- 우수팀 선정 : 시청자 open url을 통한 투표 (1인 1투표 System) (~10.05한)
+**
+
+> ## 경연
+
+**
+- 일시 : 2021.09.14 ~ 09.15 (2일간)
+- 장소 : 남촌리더쉽센터   
+- 진행방식 : 팀별 주제 선정 및 자체 개발 진행 + 기술지원(자문)
+** 
+
+> ## 교육
+
+**
+- Power Apps : 2021.09.06 ~ 09.07 (2일간)
+- Power Automate : 2021.09.08 ~ 09.09 (2일간)
+- 장소 : 남촌리더쉽센터   
+- G.E본부 : 인원별 선택적 수강 (Apps 또는 Automate)
+- 선행기술본부 : 모두 수강
+- Special Guest : 조직개발팀 추천 및 G.E본부 CC인원 총 12명 선택적 공동 수강
+** 
+
+> ## 강사 및 기술지원
+
+**
+- Power Apps 강사 : Cloudmate 임명진 매니저
+- Power Automate 강사 : Cloudmate 김정우 매니저
+- 부강사 : Cloudmate 심승민 매니저  
+- 경연 기술지원 : Cloudmate 김정우, 심승민, 임명진 매니저 + IT팀 김도현 전임
+** 
+
+> ## 참가 인원 상세
+
+**
+- Power Apps 강사 : Cloudmate 임명진 매니저
+- Power Automate 강사 : Cloudmate 김정우 매니저
+- 부강사 : Cloudmate 심승민 매니저  
+- 경연 기술지원 : Cloudmate 김정우, 심승민, 임명진 매니저 + IT팀 김도현 전임
+** 
+
+> ## 지원 및 협조
+
+**
+- Power Apps 강사 : Cloudmate 임명진 매니저
+- Power Automate 강사 : Cloudmate 김정우 매니저
+- 부강사 : Cloudmate 심승민 매니저  
+- 경연 기술지원 : Cloudmate 김정우, 심승민, 임명진 매니저 + IT팀 김도현 전임
+** 
+
+> 비고 : (교육) 거리두기 적용, (경연) 비대면 환경 적용 및 COVID19 자가검사 Kit 매일 시행
+
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+
+
+# [제 1 회] SUSTAINABLE HACKATHON
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
