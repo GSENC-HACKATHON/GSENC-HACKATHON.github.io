@@ -9,7 +9,7 @@ discription: "우리팀의 주제는 'Project 관리 Tool' 입니다. Project의
 ---
 
 
-# 팀명 : 환경솔루션
+# 팀명 : E&I (Inst.)
 
 > **소속 : G.E본부 / E&I 계장파트 2명**
 

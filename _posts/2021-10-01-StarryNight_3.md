@@ -14,7 +14,7 @@ discription: "Piping Spool 현장 관리 Application 개발 (Mobile & Desktop)
 ---
 
 
-# 팀명 : 환경솔루션
+# 팀명 : 배관소방
 
 > **소속 : G.E본부 / 배관소방설계팀 1명**
 

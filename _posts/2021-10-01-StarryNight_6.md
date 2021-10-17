@@ -9,7 +9,7 @@ discription: "SPUS(Site Photo Upload System)을 개발하였습니다. 실제로
 ---
 
 
-# 팀명 : 환경솔루션
+# 팀명 : CAS
 
 > **소속 : G.E본부 / CAS설계팀 3명**
 
