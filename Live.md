@@ -11,6 +11,8 @@ tags: [Live]
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
+<img src="/files/Live/Live.png" style="width:100%;">
+
 <img src="/files/1_HOVERING_HANGING_banner.png" style="width:100%;">
 
 <div id="content_head">
@@ -41,7 +43,7 @@ tags: [Live]
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
-<img src="/files/1_HOVERING_HANGING_banner.png" style="width:100%;">
+<img src="/files/1_Hovering/1_HOVERING_HANGING_banner.png" style="width:100%;">
 
 <div id="content_head">
 	<img src="/assets/images/Logo_B.jpg" style="width:30%; border-radius:50%; float:left; border:1px solid #ccc; margin-right:15px">
