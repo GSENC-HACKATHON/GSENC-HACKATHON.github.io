@@ -5,7 +5,7 @@ author: StarryNgiht_E&I(Inst.)
 date: 2021-10-01 00:00:00 +09:00
 tags: [shkim23, krhan2, StarryNight]
 image: /files/2_StarryNight/Post/Posthead_4.png
-discription: "우리팀의 주제는 "Project 관리 Tool" 입니다. Project의 개요와 현황을 쉽게 확인 하고 관리 할 수 있도록 만든 프로그램 입니다. 각자의 컴퓨터 또는 서버에서 관리되던 Project 현황들을 Power Apps를 통해 쉽게 확인이 가능합니다. 또한, Project 주간 보고서를 통해 각 Project 의 Issue를 취합하던 기존 방식과 달리, Power Apps를 통해 실시간으로 Project의 Issue등을 확인 할 수 있습니다.이 프로그램을 통해 Project 의 LE 직책자는, Status 파악이 용이함은 물론이고 각 담당자들에게 Status Update 요청 및 Meeting 요청을 하여 효율적인 관리가 가능 합니다."
+discription: "우리팀의 주제는 'Project 관리 Tool' 입니다. Project의 개요와 현황을 쉽게 확인 하고 관리 할 수 있도록 만든 프로그램 입니다. 각자의 컴퓨터 또는 서버에서 관리되던 Project 현황들을 Power Apps를 통해 쉽게 확인이 가능합니다. 또한, Project 주간 보고서를 통해 각 Project 의 Issue를 취합하던 기존 방식과 달리, Power Apps를 통해 실시간으로 Project의 Issue등을 확인 할 수 있습니다.이 프로그램을 통해 Project 의 LE 직책자는, Status 파악이 용이함은 물론이고 각 담당자들에게 Status Update 요청 및 Meeting 요청을 하여 효율적인 관리가 가능 합니다."
 ---
 
 
