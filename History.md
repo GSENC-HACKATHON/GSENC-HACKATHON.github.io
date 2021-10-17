@@ -11,7 +11,7 @@ tags: [History]
 
 
 
-# [제 2 회] G.E본부 및 기술본부 Digitalizing 업무 경쟁력 확보를 위한 업무 시스템 경연
+# [제 2 회] Digitalizing 업무 경쟁력 확보를 위한 업무 시스템 경연<br>(G.E본부 및 기술본부)
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
