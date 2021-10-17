@@ -71,17 +71,17 @@ tags: [History]
 > ## 경연 참가 인원
 
 <img src="/files/History/2_StarryNight/StarryNight_MemberList.jpg" style="width:100%; max-width:406px;">
-<br><br>
+<br><br><br>
 
 > ## 참가 지원 및 팀 주관
 
 <img src="/files/History/2_StarryNight/StarryNight_TeamLeaderList.jpg" style="width:100%; max-width:406px;">
-<br><br>
+<br><br><br>
 
 > ## 진행
 
 <img src="/files/History/2_StarryNight/StarryNight_Operation.jpg" style="width:100%; max-width:406px;">
-<br><br>
+<br><br><br>
 
 > ## 지원 및 협조
 
@@ -91,12 +91,13 @@ tags: [History]
 > ## 특별 지원
 
 <img src="/files/History/2_StarryNight/52gLogo.png" style="width:100%; max-width:130px;">
-<br><br>
+<br><br><br>
 
 > 비고 : (교육) 거리두기 적용, (경연) 비대면 환경 적용 및 COVID19 자가검사 Kit 매일 시행
 
 
 <br><br>
+
 ----------------------------------------------------------------------------------------------
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
