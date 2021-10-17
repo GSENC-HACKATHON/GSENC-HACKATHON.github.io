@@ -8,7 +8,36 @@ sitemap: yes
 tags: [Live]
 ---
 
-<center><strong><u> ※ 아래 영상은 청각 장애인분들을 위하여<br>'한글 자막'을 지원하고 있습니다. </u></strong></center>
+
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+
+<img src="/files/1_HOVERING_HANGING_banner.png" style="width:100%;">
+
+<div id="content_head">
+	<img src="/files/2_StarryNight/Logo/Starry Night Logo_Symbol_small.png" style="width:30%; border-radius:50%; float:left; border:1px solid #ccc; margin-right:15px">
+	[주제] 팀 별 일반 또는 고유 업무에 대하여 Power Platform을 통해 업무 시스템을 직접 제작 (Digital화 및 경쟁력을 확보)
+</div>
+
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+
+# <u>[전체] 'Starry Night' 발표회</u>
+
+<div class="video-container" align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/XfxYJr6TeNc" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<pre class="highlight">
+<strong>주제 : </strong>
+소속 및 팀원 : 
+</pre>
+
+
+<br><br>
+
+----------------------------------------------------------------------------------------------
+<hr style="height:120px; border-width:0; background-color:green; margin: 2em 0;">
+----------------------------------------------------------------------------------------------
+<br><br>
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
@@ -18,6 +47,10 @@ tags: [Live]
 	<img src="/assets/images/Logo_B.jpg" style="width:30%; border-radius:50%; float:left; border:1px solid #ccc; margin-right:15px">
 	[주제] 공개적 정보를 공공의 이익을 목적으로 지도 및 Insight Data로 표현하여 제공하기
 </div>
+
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+
+<center><strong><u> ※ 아래 영상은 청각 장애인분들을 위하여<br>'한글 자막'을 지원하고 있습니다. </u></strong></center>
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
