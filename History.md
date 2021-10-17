@@ -99,9 +99,7 @@ tags: [History]
 <br><br>
 
 ----------------------------------------------------------------------------------------------
-<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
-<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
-<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+<hr style="height:120px; border-width:0; background-color:green; margin: 2em 0;">
 ----------------------------------------------------------------------------------------------
 <br><br>
 
