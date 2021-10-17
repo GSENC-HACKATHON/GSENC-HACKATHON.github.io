@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Starry Night] SPUS (Site Photo Upload System) : 현장 사진 중앙 관리 및 DB"
+title: "[Starry Night-6] SPUS (Site Photo Upload System) : 현장 사진 중앙 관리 및 DB"
 author: StarryNgiht_CAS
 date: 2021-10-01 00:00:00 +09:00
 tags: [osk15, shjo01, yskim, StarryNight]
@@ -42,7 +42,7 @@ discription: "SPUS(Site Photo Upload System)을 개발하였습니다. 실제로
 
 ----------------------------------------------------------------------------------------
 
-![](/files/2_StarryNight/Teamlogo/Starry Night OP_5T.png)
+![](/files/2_StarryNight/Teamlogo/Starry Night OP_6T.png)
 
 # 주제 
 > ##### : SPUS (Site Photo Upload System) : 현장 사진 중앙 관리 및 DB

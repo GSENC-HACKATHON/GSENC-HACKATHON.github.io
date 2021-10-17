@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Starry Night] 팀 Site 만들기 (문서 List 및 Link / 교육 알람 / 의견 모집 / GS-IES 재개정)"
+title: "[Starry Night-4] 팀 Site 만들기 (문서 List 및 Link / 교육 알람 / 의견 모집 / GS-IES 재개정)"
 author: StarryNgiht_E&I(Elec.)
 date: 2021-10-01 00:00:00 +09:00
 tags: [yoontae.chung, jhseo02, bwkim2, StarryNight]

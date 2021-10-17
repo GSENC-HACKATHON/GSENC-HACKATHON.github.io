@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Starry Night] Weekly Report를 기반으로한 입력 및 공유 Tool"
+title: "[Starry Night-5] Weekly Report를 기반으로한 입력 및 공유 Tool"
 author: StarryNgiht_E&I(Inst.)
 date: 2021-10-01 00:00:00 +09:00
 tags: [shkim23, krhan2, StarryNight]

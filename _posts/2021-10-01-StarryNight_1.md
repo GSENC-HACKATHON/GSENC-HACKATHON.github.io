@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Starry Night] RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유"
+title: "[Starry Night-1] RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유"
 author: StarryNgiht_Neotech
 date: 2021-10-01 00:00:00 +09:00
 tags: [jwkim23, StarryNight]

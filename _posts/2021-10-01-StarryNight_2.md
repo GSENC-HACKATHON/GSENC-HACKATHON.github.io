@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Starry Night] Insight 활동 자동화 Solution 개발"
+title: "[Starry Night-2] Insight 활동 자동화 Solution 개발"
 author: StarryNgiht_환경솔루션
 date: 2021-10-01 00:00:00 +09:00
 tags: [kdshim, ktkim05, StarryNight]

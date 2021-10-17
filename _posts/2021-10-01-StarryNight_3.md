@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Starry Night] 배관 Spool 관리 및 입력 System (Mobile 겸용)"
+title: "[Starry Night-3] 배관 Spool 관리 및 입력 System (Mobile 겸용)"
 author: StarryNgiht_배관소방
 date: 2021-10-01 00:00:00 +09:00
 tags: [shhwang5, StarryNight]
