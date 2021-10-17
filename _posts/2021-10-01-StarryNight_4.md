@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Starry Night] 배관 Spool 관리 및 입력 System (Mobile 겸용)"
+title: "[Starry Night] 팀 Site 만들기 (문서 List 및 Link / 교육 알람 / 의견 모집 / GS-IES 재개정)"
 author: StarryNgiht_E&I(Elec.)
 date: 2021-10-01 00:00:00 +09:00
 tags: [yoontae.chung, jhseo02, bwkim2, StarryNight]
@@ -51,7 +51,7 @@ discription: "저희는 팀에서 기존에 요구되었던 사항을 경연을 
 ![](/files/2_StarryNight/Teamlogo/Starry Night OP_4T.png)
 
 # 주제 
-> ##### : 배관 Spool 관리 및 입력 System (Mobile 겸용)
+> ##### : 팀 Site 만들기 (문서 List 및 Link / 교육 알람 / 의견 모집 / GS-IES 재개정)
 
 
 # 설명
