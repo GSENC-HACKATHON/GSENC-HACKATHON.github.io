@@ -30,31 +30,31 @@ tags: [Live]
 
 <strong> Intro</strong>
 
->E&I (Elec.) - 정윤태, 서지훈, 김봉완
->주제 : 팀 Site 만들기 (문서 List 및 Link / 교육 알람 / 의견 모집 / GS-IES 재개정)
+ 1. E&I (Elec.) - 정윤태, 서지훈, 김봉완
+    주제 : 팀 Site 만들기 (문서 List 및 Link / 교육 알람 / 의견 모집 / GS-IES 재개정)
 
->기술지원팀 - 임경훈(인프라구조팀), 신원재(지반팀)
->주제 : 팀 성과 기록 관리 & 공유 System
+ 2. 기술지원팀 - 임경훈(인프라구조팀), 신원재(지반팀)
+    주제 : 팀 성과 기록 관리 & 공유 System
 
->E&I (Inst.) - 김성희, 한가람
->주제 : Weekly Report를 기반으로한 입력 및 공유 Tool
+ 3. E&I (Inst.) - 김성희, 한가람
+    주제 : Weekly Report를 기반으로한 입력 및 공유 Tool
 
->Neotech - 김진욱
->주제 : RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유
+ 4. Neotech - 김진욱
+    주제 : RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유
 
 <strong> Middle Break</strong>
 
->CAS - 온슬기, 조성환, 김윤성
->주제 : SPUS (Site Photo Upload System) : 현장 사진 중앙 관리 및 DB
+ 5. CAS - 온슬기, 조성환, 김윤성
+    주제 : SPUS (Site Photo Upload System) : 현장 사진 중앙 관리 및 DB
 
->환경솔루션 - 심규대, 김기태
->주제 : Insight 활동 자동화 Solution 개발
+ 6. 환경솔루션 - 심규대, 김기태
+    주제 : Insight 활동 자동화 Solution 개발
 
->배관소방 - 황상호
->주제 : 배관 Spool 관리 및 입력 System (Mobile 겸용)
+ 7. 배관소방 - 황상호
+    주제 : 배관 Spool 관리 및 입력 System (Mobile 겸용)
 
->연구팀 - 한희갑(기반기술연구팀), 윤소영(기반기술연구팀), 김기석(스마트건설연구팀), 김성규(Pioneer팀)
->주제 : (회사) 업무용 차량 공유 및 관리 시스템
+ 8. 연구팀 - 한희갑(기반기술연구팀), 윤소영(기반기술연구팀), 김기석(스마트건설연구팀), 김성규(Pioneer팀)
+    주제 : (회사) 업무용 차량 공유 및 관리 시스템
 
 <strong> Ending Credit</strong>
 
