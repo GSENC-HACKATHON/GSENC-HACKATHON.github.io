@@ -26,7 +26,9 @@ tags: [Live]
 
 <pre class="highlight">
 
->Intro
+<strong>발표 순서 및 정보</strong>
+
+<strong> Intro</strong>
 
 >E&I (Elec.) - 정윤태, 서지훈, 김봉완
 >주제 : 팀 Site 만들기 (문서 List 및 Link / 교육 알람 / 의견 모집 / GS-IES 재개정)
@@ -40,7 +42,7 @@ tags: [Live]
 >Neotech - 김진욱
 >주제 : RSS Feed 기반 Keyword별 뉴스 주기적 취합 및 공유
 
-> Middle Break
+<strong> Middle Break</strong>
 
 >CAS - 온슬기, 조성환, 김윤성
 >주제 : SPUS (Site Photo Upload System) : 현장 사진 중앙 관리 및 DB
@@ -54,7 +56,7 @@ tags: [Live]
 >연구팀 - 한희갑(기반기술연구팀), 윤소영(기반기술연구팀), 김기석(스마트건설연구팀), 김성규(Pioneer팀)
 >주제 : (회사) 업무용 차량 공유 및 관리 시스템
 
-> Ending Credit
+<strong> Ending Credit</strong>
 
 </pre>
 
