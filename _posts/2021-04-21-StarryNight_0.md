@@ -180,11 +180,13 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 # <center> - 진 행 - </center>
 
+<center><img src="/files/2_StarryNight/Post/0/StarryNight_Operation.jpg" style="width:60%;"></center>
 ![](/files/2_StarryNight/Post/0/StarryNight_Operation.jpg)
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 # <center> - 지원 및 협조 - </center>
 
+<center><img src="/files/2_StarryNight/Post/0/StarryNight_Support.jpg" style="width:60%;"></center>
 ![](/files/2_StarryNight/Post/0/StarryNight_Support.jpg)
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
@@ -192,4 +194,4 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 ##### <center> 다음이 더 기다려집니다. </center>
 ## <center> "감사합니다" </center>
 
-`<center><img src="/files/post/0/Next.png" style="width:60%;"></center>
+<center><img src="/files/post/0/Next.png" style="width:60%;"></center>
