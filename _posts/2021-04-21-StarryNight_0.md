@@ -4,7 +4,7 @@ title: "[제2회] GS E&C - DIGITALIZING HACKATHON"
 author: STARRYNIGHT
 date: 2021-10-01 00:00:01 +09:00
 tags: [STARRYNIGHT]
-image: /files/covers/not_only_me_1.jpg
+image: /files/covers/2.jpg
 discription: STARRYNIGHT 빛나는 별들을 모으다
 ---
 
@@ -92,8 +92,8 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 # <center> - 주요 진행 정보 - </center>
 
 > 기간 : 2021.09.06~09, 14~15 (총 6일간)   
-> 장소 : GS남촌리더십센터 
-> 발표회(비대면) : 2021.10.01 (오후2시)
+> 장소 : GS남촌리더십센터   
+> 발표회(비대면) : 2021.10.01 (오후2시)   
 > Publish : 2021.10.21
 
 > COVID19 대응 방안 적용
@@ -181,17 +181,13 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 # <center> - 진 행 - </center>
 
 <center><img src="/files/2_StarryNight/Post/0/StarryNight_Operation.jpg" style="width:60%;"></center>
-![](/files/2_StarryNight/Post/0/StarryNight_Operation.jpg)
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 # <center> - 지원 및 협조 - </center>
 
 <center><img src="/files/2_StarryNight/Post/0/StarryNight_Support.jpg" style="width:60%;"></center>
-![](/files/2_StarryNight/Post/0/StarryNight_Support.jpg)
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
 ##### <center> 다음이 더 기다려집니다. </center>
 ## <center> "감사합니다" </center>
-
-<center><img src="/files/post/0/Next.png" style="width:60%;"></center>
