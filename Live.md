@@ -26,7 +26,7 @@ tags: [Live]
 
 <pre class="highlight">
 
-<strong>발표 순서 및 정보</strong>
+<strong>- 발표 순서 및 정보 -</strong>
 
 <strong> Intro</strong>
 
