@@ -10,7 +10,7 @@ discription: STARRYNIGHT 빛나는 별들을 모으다
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
-![](/assets/images/Logo_B.jpg)
+![](/files/2_StarryNight/Post/0/Starry Night Logo_Symbol_middle.png)
 
 ### <center> [주제] 팀 별 일반 또는 고유 업무에 대하여 Power Platform을 통해 업무 시스템을 직접 제작 (Digital화 및 경쟁력을 확보) </center> ##
 
@@ -52,7 +52,7 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 </div>
 
 <div id="Recommendation"><p>
-<center><img src="/files/2_StarryNight/Post/0/GStarry Night Logo_Symbol_small.png" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
+<center><img src="/files/2_StarryNight/Post/0/Starry Night Logo_Symbol_small.png" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
 어려운 사업환경과 조직 개편등으로 신규 프로젝트 수행 인력의 부족이 발생하고 있었고, 더불어 계획되었던 활동들이 축소 개편되는 등 본부의 조직역량 개선활동으로 본 과정이 이야기가 되었을 때는 상당히 진행하기 쉽지 않은 조직 분위기 였습니다.
 하지만 움츠림 만으로는 답이 될 수 없었기에 저희가 할 수 있는 노력을 하고자 'Starry Night'을 시작하게 되었고, 발표회까지 마침으로써 잘 마무리가 되었습니다.<br>
 이틀간의 교육만으로 새로운 Work Platform인 O365를 활용하여 하고 있는 업무를 간편하게 해 줄수 있는 TOOL을 개발해 봄으로써 참여자는 물론이고 지켜본 본부의 인원들 또한 어렵지 않게 할수 있다는 것을 간접적으로 경험을 하였을 것입니다.
@@ -64,14 +64,14 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 </div>
 
 <div id="Recommendation"><p>
-<center><img src="/files/2_StarryNight/Post/0/GStarry Night Logo_Symbol_small.png" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
+<center><img src="/files/2_StarryNight/Post/0/Starry Night Logo_Symbol_small.png" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
 
 <br>
 <p style="text-align: right;"><strong>- GS건설 선행기술본부 기술기획팀 팀장 정창환 -</strong></p>
 </div>
 
 <div id="Recommendation"><p>
-<center><img src="/files/2_StarryNight/Post/0/GStarry Night Logo_Symbol_small.png" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
+<center><img src="/files/2_StarryNight/Post/0/Starry Night Logo_Symbol_small.png" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
 이번  Power Platform 교육과 Starry Night 경연을 통해 우리 회사에도 열정적인 태도와 변화하려는 직원들이 많다는 점을 새삼 알 수 있었습니다. 최근에 전 세계적으로 Digital Transformation이 이슈인데, Power Platform 교육이라는 작은 시작이 나비 효과가 되어 우리 회사의 조직 문화를 바꾸고 나아가서는 Digital Transformation까지 이어질 수 있는 촉매제 역할을 충분히 했다고 생각합니다. 또한, Starry Night 경연을 통해 처음 배우지만 스스로 노력하여 결과물을 만들어내면서 참가자 모두높은 성취감을 얻었을 것이라 생각합니다. 경연의 주제도 작지만 우리 업무에서 꼭 개선이 필요했던 부분이 잘 선정되었던 것 같고, 결과물의 수준 또한 높았던 것 같습니다.
 <br>
 <p style="text-align: right;"><strong>- GS건설 선행기술본부 'Starry Night' 코디네이터 은재환 -</strong></p>
@@ -177,21 +177,19 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 <figcaption class="caption">기술지원팀 - 임경훈 / 신원재</figcaption>
 </center></div>
 
+<hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
+# <center> - 진 행 - </center>
+
+![](/files/2_StarryNight/Post/0/StarryNight_Operation.jpg)
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 # <center> - 지원 및 협조 - </center>
 
-![Like](/files/post/0/Remember_1.png)
-
-
-![Lack & Learn](/files/post/0/Remember_2.png)
-
-
-![Look Forward & Etc..](/files/post/0/Remember_3.png)
+![](/files/2_StarryNight/Post/0/StarryNight_Support.jpg)
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 
 ##### <center> 다음이 더 기다려집니다. </center>
 ## <center> "감사합니다" </center>
 
-<center><img src="/files/post/0/Next.png" style="width:60%;"></center>
+`<center><img src="/files/post/0/Next.png" style="width:60%;"></center>
