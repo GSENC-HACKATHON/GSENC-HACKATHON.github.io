@@ -2,7 +2,7 @@
 layout: post
 title: "[제2회] GS E&C - DIGITALIZING HACKATHON"
 author: STARRYNIGHT
-date: 2021-10-01 00:00:00 +09:00
+date: 2021-10-01 00:00:01 +09:00
 tags: [STARRYNIGHT]
 image: /files/covers/not_only_me_1.jpg
 discription: STARRYNIGHT 빛나는 별들을 모으다
@@ -12,7 +12,8 @@ discription: STARRYNIGHT 빛나는 별들을 모으다
 
 ![](/files/2_StarryNight/Post/0/Starry Night Logo_Symbol_middle.png)
 
-### <center> [주제] 팀 별 일반 또는 고유 업무에 대하여 Power Platform을 통해 업무 시스템을 직접 제작 (Digital화 및 경쟁력을 확보) </center> ##
+### <center> [주제] 팀 별 일반 또는 고유 업무에 대하여 Power Platform을 통해 ###
+### 업무 시스템을 직접 제작 (Digital화 및 경쟁력을 확보) </center> ###
 
 <hr style="height:5px; border-width:0; background-color:green; margin:2em 0;">
 
