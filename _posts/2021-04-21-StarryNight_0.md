@@ -3,7 +3,7 @@ layout: post
 title: "[제2회] GS E&C - DIGITALIZING HACKATHON"
 author: STARRYNIGHT
 date: 2021-10-01 00:00:01 +09:00
-tags: [STARRYNIGHT]
+tags: [StarryNight]
 image: /files/covers/2.jpg
 discription: STARRYNIGHT 빛나는 별들을 모으다
 ---
