@@ -53,7 +53,7 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 </div>
 
 <div id="Recommendation"><p>
-<center><img src="/files/2_StarryNight/Post/0/Starry Night Logo_Symbol_small.png" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
+<center><img src="/files/2_StarryNight/Post/0/EM.jpg" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
 어려운 사업환경과 조직 개편등으로 신규 프로젝트 수행 인력의 부족이 발생하고 있었고, 더불어 계획되었던 활동들이 축소 개편되는 등 본부의 조직역량 개선활동으로 본 과정이 이야기가 되었을 때는 상당히 진행하기 쉽지 않은 조직 분위기 였습니다. 하지만 움츠릴 수만은 없었기에 저희가 할 수 있는 노력을 하고자 'Starry Night'을 시작하게 되었고, 발표회까지 마침으로써 잘 마무리가 되었습니다.<br><br>
 이틀간의 교육만으로 새로운 Work Platform인 O365를 활용하여 하고 있는 업무를 간편하게 해 줄수 있는 TOOL을 개발해 봄으로써 참여자는 물론이고 지켜본 본부의 인원들 또한 어렵지 않게 할수 있다는 것을 간접적으로 경험을 하였을 것입니다.
 이를 계기로 본부의 디지털 업무에 대한 인식이 보다 고취되는데 도움이 되었을 것으로 믿습니다.<br><br>
@@ -61,13 +61,6 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 더불어 이 프로그램을 위해 고생한 CA, CC분들 수고 많았습니다. 특히 아이디어 제안부터 직접 티에 인쇄까지 해가면서 혼신을 다해 과정을 이끌어 준 진행자 분들께서 고생 많았습니다. 아낌없이 지원해 주신 유관부서 분들께도 감사를 드립니다. 
 <br>
 <p style="text-align: right;"><strong>- GS건설  G.E본부 EM팀장  서경수 -</strong></p>
-</div>
-
-<div id="Recommendation"><p>
-<center><img src="/files/2_StarryNight/Post/0/Starry Night Logo_Symbol_small.png" style="margin: 21px; border-radius:50%; border: 1px solid #ccc;" class="pull-left_Recommendation"></center></p>
-
-<br>
-<p style="text-align: right;"><strong>- GS건설  선행기술본부 기술기획팀 팀장  정창환 -</strong></p>
 </div>
 
 <div id="Recommendation"><p>
