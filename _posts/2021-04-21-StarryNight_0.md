@@ -4,7 +4,7 @@ title: "[제2회] GS E&C - DIGITALIZING HACKATHON"
 author: STARRYNIGHT
 date: 2021-10-01 00:00:01 +09:00
 tags: [StarryNight]
-image: /files/2_StarryNight/Post/0/2_0_Cover.png
+image: /files/2_StarryNight/Post/0/2_0_Cover.jpg
 discription: STARRYNIGHT 빛나는 별들을 모으다
 ---
 
@@ -30,7 +30,7 @@ discription: STARRYNIGHT 빛나는 별들을 모으다
 
 > 녹녹치 않은 사업 환경과 조직의 변화 속에서 다양한 어려움을 마딱뜨리기도 하고, 반면 그 속에서 경쟁력 확보를 위하여 많은 노력을 하고 있습니다. 불확실함 속에서 누군가는 걱정하고 누군가는 길을 잃기도 합니다. 그러한 어둠 속에서 트랜드와 경쟁력을 놓치지 않고 살아남기 위한 길을 조금 더 잘 찾기 위해서 달빛을 갈망할 때가 있습니다. 어둠 속의 달은 앞길을 비추어 주고, 많은 별들이 모여 방향을 알려 주게 됩니다. 그 끝은 우리에게 필요한 목표 달성과 경쟁력이 기다리고 있을 것 입니다. 
 
-![](/files/2_StarryNight/Post/0/0_bend_pic_1.png)
+![](/files/2_StarryNight/Post/0/0_bend_pic_1.jpg)
 
 <div id="blockquote2"> 이따금씩 Software나 기기하나를 사서는 단순히 사용하는 것을 기술 또는 기술력으로 포장되는 경우도 있습니다. 사용 ▷ 학습 ▷ 가르침 ▷ 그다음의 창조. 이번 'Starry Night'은 미완일 수는 있으나 그 창조에 맞추어 설계 되었습니다. 우리가 차별화되고, 필요하며, 우리가 가만히 있으면 끌어 내려지는 상황을 벗어나기 위해서는 내가 알지 못하였고, 내가 보지 못하였으며, 내 것이 아닌 것에 대하여서도 만들 수 있는 능력이 4차 산업이 고도화 되어 갈 수록 요구되고 있습니다. </div>
 
@@ -105,6 +105,7 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 - Cloudmate 김정우 매니저
 - Cloudmate 신승민 매니저
 - Cloudmate 임명진 매니저
+
 
 <hr style="height:5px; border-width:0; background-color:green; margin: 2em 0;">
 # <center> - 참가자 - </center>
@@ -184,3 +185,5 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 
 ##### <center> 다음이 더 기다려집니다. </center>
 ## <center> "감사합니다" </center>
+
+![](/files/2_StarryNight/Post/0/2_0_Last.png)
