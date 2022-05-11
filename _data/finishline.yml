@@ -107,7 +107,7 @@ defaults:
      - 지역별인구밀도
 
   - name: ESGEL
-    finishline: 
+    finishline: https://app.powerbi.com/view?r=eyJrIjoiZWUxZGJhYmYtZjJlNy00ZjIyLWI3NGUtMjI1OTVkMjM4ZTg2IiwidCI6IjA2NjQ2N2JmLTgxNzQtNDViMi1iZWIyLTUwNTA5NDQ1N2I4NiJ9&pageName=ReportSection36a685025a784300003b
     title: 푸드뱅크, 전국무료급식소 통합정보
     blog_url:
     content: 사회 취약계층과 食을 나누는 기쁨을 확대하기 위해 기부자와 제공자의 정보(기부품, 금액, 선호품 등)을 지도에 표현하고자 합니다.
