@@ -187,15 +187,3 @@ IT 전문가가 아닌 설계, 기술담당 엔지니어들이 1주일 정도의
 ## <center> "감사합니다" </center>
 
 <img src="/files/2_StarryNight/Post/0/2_0_Last.png" style="width:100%; Height:100%;">
-
-
-
-![](/WPS/WPS_1.png)
-
-<br>
-
-![](/WPS/WPS_2.png)
-
-<br>
-
-![](/WPS/WPS_3.png)
