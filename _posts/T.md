@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "[HOVERING-1] 지역별(수도권) / 나이별 / 상황 맞춤별 공공 돌봄 필터링 서비스 + 지역종합정보"
+title: "종합정보"
 author: 90년대생하고싶은거다해
-date: 2022-05-21 14:03:12 +09:00
+date: 2021-04-21 14:03:12 +09:00
+tags: [bwkim2, japark2, thpark01, sean.baek, HOVERING]
+image: /files/post/1/1_1_pic_1.png
 discription: "공"
 ---
 
