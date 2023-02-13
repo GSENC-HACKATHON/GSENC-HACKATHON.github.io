@@ -1,0 +1,70 @@
+<body>
+
+<p>
+
+<input type="text" id="num1" size="10" value=""> //첫번째 수
+
+<select class="op" id="op"> //option 선택창
+
+<option value='plus'>+</option>
+
+<option value='sub'>-</option>
+
+<option value='mul'>*</option>
+
+<option value='div'>/</option></select>
+
+<input type="text" id="num2" size="10" value=""> = <input type="text" id="num3" size="10" value="" readonly="readonly">
+
+<input type="button" value="send" onclick="total()"> //계산 버튼
+
+</p>
+
+</body>
+
+
+첫번째 칸과 두번째 칸에 계산할 수를 쓴 후 연산기호를 선택한다. 그런 다음 send버튼을 누르면 total()함수가 호출된다. 
+
+
+
+<script type="text/javascript"> //JavaScript 부분을 HTML의 <head>사이에 삽입한다.
+
+function total() //total()함수 부분
+
+{
+
+  var num1=document.getElementById("num1"); //<body>부분에서 num1변수를 getElementById를 이용하여 값을 가져온다.
+
+  var num1s=num1.value; // num1에서 가져온 값을 num1s에 저장해주고,
+
+  var num1b=parseInt(num1s); // 계산을 하기위해 그 값을 int형으로 바꿔준다.
+
+  var num2=document.getElementById("num2"); //위 방법과 같음..
+
+  var num2s=num2.value;
+
+  var num2b=parseInt(num2s);
+
+  var num3t;
+
+  var op=document.getElementById("op"); //역시 op값을 가져오고
+
+  var ops=op.value; //값으로 저장
+
+  switch(ops) //ops의 연산기호에 따라 case를 나눈다.
+
+  {
+
+  case "plus": num3t = num1b + num2b;  document.getElementById("num3").value=num3t; break;
+
+  case "sub": num3t = num1b - num2b; document.getElementById("num3").value=num3t; break;
+
+  case "mul": num3t = num1b * num2b; document.getElementById("num3").value=num3t; break;
+
+  case "div": num3t = num1b / num2b; document.getElementById("num3").value=num3t; break;
+
+  } //계산한 값을 num3t에 저장한 후, 값을 num3로 가져간다.
+
+}
+
+</script>
