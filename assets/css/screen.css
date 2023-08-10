@@ -228,7 +228,7 @@ for small screen(<720px):
     height: 60px;
     margin: 0 0;
     padding: 0;
-    background: url(../images/pc/GS_52gLogo.png) no-repeat center;
+    background: url(../images/pc/GSE&C_logo.png) no-repeat center;
     background-size: 249px 42px;
 }
 
@@ -1338,7 +1338,7 @@ body.page-template {
         top: 0;
         height: 50px;
         margin: 0 auto;
-        background-image: url(../images/mo/GS_52gLogo@0.25x.png);
+        background-image: url(../images/mo/GS_E&C@0.25x.png);
         background-size: 125px 21px;
     }
 
@@ -1762,7 +1762,7 @@ body.page-template {
     }
 
     #logo {
-		background-image: url(../images/mo/GS_52gLogo@0.5x.png);
+		background-image: url(../images/mo/GS_E&C@0.5x.png);
 		width: 166px;
 		background-size: 166px 28px;
     }
@@ -1898,7 +1898,7 @@ body.page-template {
     }
 
     #logo {
-        background-image: url(../images/mo/GS_52gLogo@0.75x.png);
+        background-image: url(../images/mo/GS_E&C@0.75x.png);
     }
 
     #menu-toggle {
