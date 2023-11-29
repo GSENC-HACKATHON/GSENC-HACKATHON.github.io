@@ -19,7 +19,9 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-127.0.0.1	https://teams.microsoft.com
-127.0.0.1	teams.microsoft.com
-127.0.0.1	https://outlook.office.com
-127.0.0.1	outlook.office.com
+127.0.0.1  https://teams.microsoft.com
+127.0.0.1  teams.microsoft.com
+127.0.0.1  https://outlook.office.com
+127.0.0.1  outlook.office.com
+127.0.0.1  https://gsenc-my.sharepoint.com
+127.0.0.1  gsenc-my.sharepoint.com
